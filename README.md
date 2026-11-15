@@ -4,7 +4,7 @@
 
 <img src="docs/images/banner.svg" alt="SubMental — A little headspace, even in space" width="100%" />
 
-**A personal astronaut HUD, built around conversations and evidence you can inspect.**
+**Multimodal self-monitoring for astronauts’ mental health and cognitive load.**
 
 [![Demo](https://img.shields.io/badge/Explore-live_demo-8eb8fc?style=flat-square)](https://orbit-crewpulse.modernmimosa8.chatgpt.site/)
 [![Checks](https://github.com/amirzaushnizer/submental/actions/workflows/ci.yml/badge.svg)](https://github.com/amirzaushnizer/submental/actions/workflows/ci.yml)
@@ -17,23 +17,40 @@
 
 ## The idea
 
-Astronauts track their spacecraft closely. **SubMental helps them reflect on the person flying it.**
+Astronauts track their spacecraft closely. **SubMental helps them monitor their own mental health and cognitive load, too.**
 
-Our iPad-friendly research demo follows Neil Armstrong through three Apollo 11 mission days. Local AI models read real NASA conversations to explore communication demand, repeated instructions, coordination problems, expressed pressure and team support.
+SubMental combines the meaning of mission conversations with biofeedback and context from audio and video. It brings those signals into a personal view that helps an astronaut assess how they are doing, notice accumulating load and understand what may support their recovery.
 
-Neil gets a simple end-of-day view: how demanding the day was, what added load and a few gentle recovery suggestions. Behind the scenes, an explorable backoffice connects findings to their source words, simulated pulse and blood pressure, and real mission footage where matching audio is available.
+Think Garmin-style self-monitoring for mental well-being in space: a clear daily picture, understandable evidence and practical suggestions the astronaut can choose to follow.
 
-Think Garmin-style daily reflection for space—with conversations at its heart.
+### Four inputs, one personal picture
 
-> **A research prototype, not a diagnosis.** The conversations and mission footage are real. The body signals and personal baseline are simulated. The five KPIs and their thresholds are experimental product choices, not NASA-validated health measures.
+| Signal | What it contributes | How we used it in the showcase |
+| --- | --- | --- |
+| **Conversation transcripts** | What the astronaut says: demands, clarification, coordination, pressure and support | Real NASA mission transcripts analyzed by local language models |
+| **Biofeedback** | Physical context alongside the conversation | Simulated pulse, blood pressure and felt-tension values linked to each selected turn |
+| **Audio** | The spoken exchange and its connection to the transcript | Real mission audio, local transcription, checked dialogue matches and playback |
+| **Video** | Visible context and the quality of available camera observations | Real mission clips, sampled frames and locally generated scene observations |
+
+Conversations remain the main analytical focus. The supporting signals help put those words in context, rather than being presented as unrelated charts.
+
+### Purpose and intended impact
+
+The goal is to give astronauts an understandable tool for monitoring their mental well-being and cognitive load over a mission. It aims to help them recognize demanding periods, reflect on changes, protect recovery opportunities and communicate when support or workload adjustments may help. The astronaut stays in control of their personal reflection and suggested actions.
+
+**Neil Armstrong is our showcase, not the project’s target population.** We used three Apollo 11 days to demonstrate the system with accessible historical evidence. The broader project is intended for astronauts generally; the showcase does not establish Armstrong’s actual mental-health state.
+
+> **Demo scope:** the transcripts, audio and video are real; the biofeedback and personal baseline are simulated. The current prototype supports exploratory self-assessment, with experimental communication measures. Clinical accuracy and improved health outcomes have not been validated. Audio is used for transcription and alignment; the demo does not implement vocal-emotion scoring or infer mental health from a face image.
+
+[Read the full project description →](PROJECT_DESCRIPTION.md)
 
 ## Explore the demo
 
 **[Open SubMental →](https://orbit-crewpulse.modernmimosa8.chatgpt.site/)**
 
-### Two views. One astronaut.
+### Two complementary views
 
-| Neil’s personal HUD | Demo backoffice |
+| Astronaut’s personal HUD · shown with Neil | Demo backoffice |
 | --- | --- |
 | A qualitative daily load reading | Five communication KPIs with source-linked episodes |
 | A short, supportive explanation | Exact quotes, UTC times, mission elapsed times and nearby dialogue |
@@ -44,7 +61,7 @@ Think Garmin-style daily reflection for space—with conversations at its heart.
 
 Neil’s HUD uses concise, reviewed wording selected by the day’s load band. The backoffice also exposes the model’s original daily note. Check-ins and saved recovery actions are separated by selected day, stay in the current browser session and reset on reload.
 
-### Three days of Apollo 11
+### The showcase: three days of Apollo 11
 
 | UTC date | Scenario | Transcript turns | Turns attributed to Neil |
 | --- | --- | ---: | ---: |
@@ -52,7 +69,7 @@ Neil’s HUD uses concise, reviewed wording selected by the day’s load band. T
 | **20 July 1969** | Preparation, descent, landing and technical follow-up | 1,468 | 181 |
 | **22 July 1969** | Return-journey operations and recovery opportunities | 504 | 55 |
 
-These are **UTC calendar-day extracts**, not complete wake-to-sleep shifts. `CDR` denotes Neil. Real ground and crewmate messages remain as context; the app’s personal readings concern Neil.
+These are **UTC calendar-day extracts**, not complete wake-to-sleep shifts. `CDR` denotes Neil. Real ground and crewmate messages remain as context; the showcase presents the personal readings through Neil’s example.
 
 ### A two-minute presentation path
 
@@ -92,7 +109,7 @@ flowchart TD
     C --> D[Source checks and episode grouping]
     D --> E[Five communication KPIs]
     E --> F[Example baseline rules and daily load band]
-    F --> G[Neil's simple daily HUD]
+    F --> G[Personal mental-health and cognitive-load HUD]
 
     H[Real mission clips] --> I[Whisper-assisted dialogue alignment]
     H --> J[Three sampled frames per clip]
@@ -106,7 +123,7 @@ flowchart TD
     O --> P[Explorable backoffice evidence]
 ```
 
-### 1. Conversations stay central
+### 1. Conversations anchor the multimodal assessment
 
 Gemma reviews substantive Neil turns with nearby dialogue. It extracts short, literal spans. Source checks reject spans absent from the text and filter unsupported interpretations. Nearby same-KPI turns within 90 seconds are grouped into episodes.
 
@@ -280,7 +297,7 @@ research-models/     Earlier experiments; not loaded by the current app
 docs/                Research guide, provenance, model manifest and screenshots
 ```
 
-The current app is Neil-only. Earlier schedule and multi-crew experiments are retained as clearly separated research code and tests. There is no live NASA schedule connector, continuous cabin recording feed, automatic rescheduling, clinical alerting or operational deployment.
+The current showcase uses Neil’s case; SubMental’s purpose is astronaut mental-health and cognitive-load self-monitoring. Earlier schedule and multi-crew experiments are retained as clearly separated research code and tests. There is no live NASA schedule connector, continuous cabin recording feed, automatic rescheduling, clinical alerting or operational deployment.
 
 ## Checks and next steps
 

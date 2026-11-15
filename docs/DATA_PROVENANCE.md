@@ -2,6 +2,8 @@
 
 [← Project overview](../README.md) · [Research guide](RESEARCH.md)
 
+SubMental’s purpose is to support astronauts in monitoring their own mental health and cognitive load using multiple signals. Neil Armstrong’s case supplies the historical showcase described here; it is not a retrospective clinical assessment.
+
 ## Source layers
 
 | Layer | Files | Provenance |

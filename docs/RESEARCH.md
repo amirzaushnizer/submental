@@ -2,7 +2,7 @@
 
 [← Project overview](../README.md) · [Open the live demo](https://orbit-crewpulse.modernmimosa8.chatgpt.site/)
 
-This guide collects the papers and public resources consulted as the project evolved from the ORBIT/CrewPulse concept into Neil Armstrong’s personal SubMental HUD. Links were reviewed on **15 November 2026**. Research descriptions and standards can change; a roadmap entry is not evidence of operational deployment.
+This guide collects the papers and public resources consulted as the project evolved from the ORBIT/CrewPulse concept into SubMental, a multimodal astronaut mental-health and cognitive-load self-monitoring concept demonstrated through Neil Armstrong’s mission. Links were reviewed on **15 November 2026**. Research descriptions and standards can change; a roadmap entry is not evidence of operational deployment.
 
 Our five communication measures are **research-informed product proposals**. None of the sources below validates those exact KPIs, example ranges, daily load bands or recovery recommendations.
 
@@ -38,7 +38,7 @@ We did not administer NASA-TLX, Bedford, Cognition or another validated assessme
 
 ## 3. Schedules, access and privacy
 
-Earlier research explored a broader schedule-aware crew tool. The final app is a simpler personal demonstration; the resources below remain useful context for future work.
+Earlier research explored a broader schedule-aware crew tool. The current showcase is a simpler personal demonstration of the wider self-monitoring concept; the resources below remain useful context for future work.
 
 - [NASA Crew Interfaces](https://www.nasa.gov/reference/10-0-crew-interfaces-vol-2/): communication capabilities and private channels. A channel’s existence does not authorize recording or secondary analysis.
 - [NASA Medical Operations](https://www.nasa.gov/reference/6-0-medical-operations/): health support and private communication. We used no private medical, psychological or family conversations.
