@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "credit": "NASA / Apollo Flight Journal",
+  "clips": [
+    {
+      "id": "july18-probe",
+      "title": "Removing the docking equipment",
+      "sourceUrl": "https://www.apollojournals.org/afj/ap11fj/09day3-entering-eagle.html",
+      "mediaUrl": "https://www.apollojournals.org/afj/ap11fj/video/a11-0550900tv.mp4",
+      "sourceOffsetSeconds": 580,
+      "durationSeconds": 35,
+      "startUtc": "1969-07-18T20:51:49.440Z",
+      "timing": "Clip audio is anchored to its checked NASA transcript turn. The archive contains timing shifts; picture and radio timing are not assumed to be identical.",
+      "timingUncertaintySeconds": 2,
+      "subject": "Archive commentary places Neil at work in the tunnel. His face is not consistently visible.",
+      "frameSeconds": [
+        8.2,
+        12,
+        18
+      ],
+      "audioVerified": true,
+      "spokenTurns": [
+        {
+          "turnId": "a11-02075",
+          "quote": "Not much light up in that area, but apparently the TV set's able to pick it up.",
+          "utc": "1969-07-18T20:52:03Z",
+          "startSeconds": 13.56,
+          "endSeconds": 19.2
+        }
+      ],
+      "audioVerification": "Local Whisper located the spoken exchange, checked against the NASA transcript and neighboring replies. No global broadcast-offset assumption is used. Radio noise can cause ASR word errors."
+    },
+    {
+      "id": "july18-tunnel",
+      "title": "Preparing to enter Eagle",
+      "sourceUrl": "https://www.apollojournals.org/afj/ap11fj/09day3-entering-eagle.html",
+      "mediaUrl": "https://www.apollojournals.org/afj/ap11fj/video/a11-0550900tv.mp4",
+      "sourceOffsetSeconds": 1385,
+      "durationSeconds": 35,
+      "startUtc": "1969-07-18T21:05:14.560Z",
+      "timing": "Clip audio is anchored to its checked NASA transcript turn. The archive contains timing shifts; picture and radio timing are not assumed to be identical.",
+      "timingUncertaintySeconds": 2,
+      "subject": "The camera points at the hatch and cabin equipment, not a verified face view.",
+      "frameSeconds": [
+        9.8,
+        14,
+        19
+      ],
+      "audioVerified": true,
+      "spokenTurns": [
+        {
+          "turnId": "a11-02130",
+          "quote": "Looks like we'll be ready to go into the LM early if that's okay with you all down there.",
+          "utc": "1969-07-18T21:05:24Z",
+          "startSeconds": 9.44,
+          "endSeconds": 18.8
+        }
+      ],
+      "audioVerification": "Local Whisper located the spoken exchange, checked against the NASA transcript and neighboring replies. No global broadcast-offset assumption is used. Radio noise can cause ASR word errors."
+    },
+    {
+      "id": "july18-tour",
+      "title": "Checking the TV picture",
+      "sourceUrl": "https://www.apollojournals.org/afj/ap11fj/09day3-entering-eagle.html",
+      "mediaUrl": "https://www.apollojournals.org/afj/ap11fj/video/a11-0550900tv.mp4",
+      "sourceOffsetSeconds": 5158,
+      "durationSeconds": 40,
+      "startUtc": "1969-07-18T22:11:20.220Z",
+      "timing": "Clip audio is anchored to its checked NASA transcript turn. The archive contains timing shifts; picture and radio timing are not assumed to be identical.",
+      "timingUncertaintySeconds": 2,
+      "subject": "Earth is visible. This segment supplies no face evidence.",
+      "frameSeconds": [
+        14,
+        18,
+        22
+      ],
+      "audioVerified": true,
+      "spokenTurns": [
+        {
+          "turnId": "a11-02371",
+          "quote": "We have some horizontal banding in our TV monitor. Are we transmitting that to you, or do you have a clear picture?",
+          "utc": "1969-07-18T22:11:34Z",
+          "startSeconds": 13.78,
+          "endSeconds": 20.9
+        }
+      ],
+      "audioVerification": "Local Whisper located the spoken exchange, checked against the NASA transcript and neighboring replies. No global broadcast-offset assumption is used. Radio noise can cause ASR word errors."
+    },
+    {
+      "id": "cabin-film",
+      "title": "Neil and Buzz inside the spacecraft",
+      "sourceUrl": "https://www.apollojournals.org/afj/ap11fj/videoindex.html",
+      "mediaUrl": "https://www.apollojournals.org/afj/ap11fj/video/a11-16mm-mag-b.mov",
+      "sourceOffsetSeconds": 25,
+      "durationSeconds": 12,
+      "startUtc": null,
+      "timing": "Magazine 1118-B at 00:25. Exact mission time is not verified. Film is replayed at 24 fps regardless of its original capture speed.",
+      "timingUncertaintySeconds": null,
+      "subject": "The archive identifies Neil and Buzz in this sequence. No automated identity matching is used; observations are not assigned to an individual face.",
+      "frameSeconds": [
+        1,
+        6,
+        11
+      ]
+    },
+    {
+      "id": "july23-samples",
+      "title": "Neil presents the sample containers",
+      "sourceUrl": "https://www.apollojournals.org/afj/ap11fj/23day7-tv-food-prep.html",
+      "mediaUrl": "https://www.apollojournals.org/afj/ap11fj/video/a11-1553616tv.mp4",
+      "sourceOffsetSeconds": 256,
+      "durationSeconds": 20,
+      "startUtc": "1969-07-23T01:12:32Z",
+      "timing": "Approximate broadcast alignment; July 23 in UTC. This is outside the demo\u2019s three selected calendar days.",
+      "timingUncertaintySeconds": 20,
+      "subject": "The archive attributes the sample presentation to Neil. Lighting and facial detail are limited.",
+      "frameSeconds": [
+        1,
+        10,
+        19
+      ]
+    }
+  ]
+}

@@ -1,0 +1,967 @@
+[
+  {
+    "stage": "extract",
+    "primary_id": "a11-07038",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:08:51.586566Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"glad\",\n  \"request_or_decision\": \"I'm glad to hear it was fit to print.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"glad\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1025460959,
+      "load_duration": 3150709,
+      "prompt_eval_count": 241,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 131793000,
+      "eval_count": 81,
+      "eval_duration": 883010000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07055",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:08:52.584356Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"Be pleased to have it.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"Be pleased to have it.\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 993145334,
+      "load_duration": 1135417,
+      "prompt_eval_count": 583,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 190442000,
+      "eval_count": 77,
+      "eval_duration": 797645000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07061",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:08:53.430849Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Thank you much\",\n  \"request_or_decision\": \"Thank you much, Charlie.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 843496292,
+      "load_duration": 1090292,
+      "prompt_eval_count": 588,
+      "prompt_eval_cached_count": 583,
+      "prompt_eval_duration": 32662999,
+      "eval_count": 75,
+      "eval_duration": 803563000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07125",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:08:55.038514Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"Okay, Burn status: DELTA-TIG was zero, burn time was 2 plus 30. PAD angles: DELTA VGX after trim was 0.1, VGY 0.9, VGZ 0.1. DELTA-VC minus 17.9, fuel 10.6, OX 10.4, unbalance minus 50.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1604237416,
+      "load_duration": 1079125,
+      "prompt_eval_count": 328,
+      "prompt_eval_cached_count": 323,
+      "prompt_eval_duration": 31610000,
+      "eval_count": 149,
+      "eval_duration": 1566905000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07129",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:08:56.023437Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"looking good here\",\n  \"request_or_decision\": \"That was a beautiful burn\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"They don't come any finer\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 983256000,
+      "load_duration": 1086958,
+      "prompt_eval_count": 250,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 100380000,
+      "eval_count": 83,
+      "eval_duration": 879015000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07132",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:08:57.13987Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"nice\",\n  \"request_or_decision\": \"VERB 83 was plus 00070 and minus 00008\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"very nice\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1113325375,
+      "load_duration": 1193459,
+      "prompt_eval_count": 294,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 114243000,
+      "eval_count": 93,
+      "eval_duration": 995127000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07135",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:08:58.024261Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Roger\",\n  \"request_or_decision\": \"Looked good here\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 881068292,
+      "load_duration": 1140417,
+      "prompt_eval_count": 278,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 110866000,
+      "eval_count": 72,
+      "eval_duration": 765933000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07186",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:08:58.939549Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Go ahead\",\n  \"request_or_decision\": \"Go ahead, Houston.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 911347833,
+      "load_duration": 1132291,
+      "prompt_eval_count": 345,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 127664000,
+      "eval_count": 73,
+      "eval_duration": 780158000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07188",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:08:59.781843Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"a little rest and a restful trip back\", \"request_or_decision\": \"We're looking forward to a little rest\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"Thank you, boss\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 838200209,
+      "load_duration": 1210459,
+      "prompt_eval_count": 368,
+      "prompt_eval_cached_count": 363,
+      "prompt_eval_duration": 34036000,
+      "eval_count": 74,
+      "eval_duration": 800641000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07194",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:00.696905Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Very good\",\n  \"request_or_decision\": \"Okay\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"death of a real winner\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 910940542,
+      "load_duration": 1012417,
+      "prompt_eval_count": 277,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 111130000,
+      "eval_count": 76,
+      "eval_duration": 797087000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07199",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:01.73387Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"crew status report\", \"request_or_decision\": \"Radiation: CDR 11017, CMP 10019,LMP 09020. No medication.\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1029600042,
+      "load_duration": 925917,
+      "prompt_eval_count": 290,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 112090000,
+      "eval_count": 85,
+      "eval_duration": 915627000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07201",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:02.750728Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"crew status report\",\n  \"request_or_decision\": \"CDR 11017, CMP 10019, LMP 09020\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1012375875,
+      "load_duration": 1034625,
+      "prompt_eval_count": 288,
+      "prompt_eval_cached_count": 283,
+      "prompt_eval_duration": 29206000,
+      "eval_count": 93,
+      "eval_duration": 980556000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07205",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:03.740584Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Okay\",\n  \"request_or_decision\": \"We'll take a guess, Charlie, and try to give an equivalent amount.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 986763666,
+      "load_duration": 1018833,
+      "prompt_eval_count": 249,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 102247000,
+      "eval_count": 84,
+      "eval_duration": 881921000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07207",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:04.470081Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"cycled\", \"request_or_decision\": \"you want the fans cycled\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 726578500,
+      "load_duration": 1117917,
+      "prompt_eval_count": 241,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 100252000,
+      "eval_count": 58,
+      "eval_duration": 623633000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07222",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:05.500562Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"No.\", \"request_or_decision\": \"It's about in the nine or nine thirty position, and I'd say it's about 50 or 60 feet.\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1027679875,
+      "load_duration": 837458,
+      "prompt_eval_count": 361,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 128786000,
+      "eval_count": 83,
+      "eval_duration": 896445000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07224",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:06.472827Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"Not very much.\", \"request_or_decision\": \"But I don't remember seeing anything of a dust cloud to speak of.\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 969323375,
+      "load_duration": 1011125,
+      "prompt_eval_count": 335,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 130071000,
+      "eval_count": 71,
+      "eval_duration": 836086000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07226",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:07.44565Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"don't remember\",\n  \"request_or_decision\": \"I didn't see much dust\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 970627875,
+      "load_duration": 1648750,
+      "prompt_eval_count": 293,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 115942000,
+      "eval_count": 78,
+      "eval_duration": 851067000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07260",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:08.263473Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"Good night, Charlie. Thank you.\", \"request_or_decision\": \"\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"Thank you.\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 815906583,
+      "load_duration": 781791,
+      "prompt_eval_count": 242,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 95972000,
+      "eval_count": 63,
+      "eval_duration": 717362000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07268",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:09.104003Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Out\",\n  \"request_or_decision\": \"Out\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 838341916,
+      "load_duration": 762958,
+      "prompt_eval_count": 304,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 110271000,
+      "eval_count": 69,
+      "eval_duration": 725807000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07315",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:10.029162Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"good job\",\n  \"request_or_decision\": \"did a pretty good job\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"pretty good job\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 921848584,
+      "load_duration": 992375,
+      "prompt_eval_count": 233,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 96741000,
+      "eval_count": 78,
+      "eval_duration": 822498000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07317",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:11.040934Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"don't want them to give up yet\",\n  \"request_or_decision\": \"We don't want them to give up yet\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1009372709,
+      "load_duration": 951667,
+      "prompt_eval_count": 233,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 98890000,
+      "eval_count": 86,
+      "eval_duration": 907944000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07342",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:12.039514Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"ATT HOLD\",\n  \"request_or_decision\": \"thrusted plus X\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"sizable attitude oscillation and thruster firing\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 996548625,
+      "load_duration": 893792,
+      "prompt_eval_count": 301,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 110973000,
+      "eval_count": 82,
+      "eval_duration": 882843000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07355",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:12.875608Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"only in my suit\",\n  \"request_or_decision\": \"\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 833706542,
+      "load_duration": 845583,
+      "prompt_eval_count": 290,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 105898000,
+      "eval_count": 70,
+      "eval_duration": 724922000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07357",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:13.859748Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"after we took our helmets off\",\n  \"request_or_decision\": \"I think it was after insertion sometime, Bruce.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 982176250,
+      "load_duration": 770375,
+      "prompt_eval_count": 312,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 112784000,
+      "eval_count": 82,
+      "eval_duration": 866500000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07359",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:14.907549Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"20 minutes after\",\n  \"request_or_decision\": \"I mentioned it to you\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1045197375,
+      "load_duration": 862750,
+      "prompt_eval_count": 288,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 104304000,
+      "eval_count": 76,
+      "eval_duration": 937052000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07361",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:15.927807Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"water problem\",\n  \"request_or_decision\": \"the water problem evidenced itself before we noted any erratic motions of the PC02 gage\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1018645750,
+      "load_duration": 749041,
+      "prompt_eval_count": 293,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 111245000,
+      "eval_count": 86,
+      "eval_duration": 904481000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07364",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:16.807393Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"hydroxide\",\n  \"request_or_decision\": \"Secondary hydroxide - lithium hydroxide\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 876355541,
+      "load_duration": 937916,
+      "prompt_eval_count": 229,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 93204000,
+      "eval_count": 75,
+      "eval_duration": 780209000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07388",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:17.711615Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"work\",\n  \"request_or_decision\": \"That's in work\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 903084458,
+      "load_duration": 892958,
+      "prompt_eval_count": 274,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 104077000,
+      "eval_count": 74,
+      "eval_duration": 796161000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07407",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:18.618255Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Okay\",\n  \"request_or_decision\": \"Thank you\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"Thank you\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 904632042,
+      "load_duration": 1026709,
+      "prompt_eval_count": 291,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 107089000,
+      "eval_count": 74,
+      "eval_duration": 794619000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07409",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:19.528633Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"11\",\n  \"request_or_decision\": \"This is 11, Houston.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 907762542,
+      "load_duration": 1029667,
+      "prompt_eval_count": 230,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 104526000,
+      "eval_count": 76,
+      "eval_duration": 800273000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07411",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:20.354184Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"Go ahead, Houston.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 822977666,
+      "load_duration": 1071958,
+      "prompt_eval_count": 258,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 103095000,
+      "eval_count": 70,
+      "eval_duration": 716550000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07416",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:21.218522Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"Houston, Apollo 11.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 863329291,
+      "load_duration": 871083,
+      "prompt_eval_count": 297,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 117710000,
+      "eval_count": 72,
+      "eval_duration": 742839000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07418",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:22.539792Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"I've stopped it now, and we are going to have to go back and do it over again.\",\n  \"request_or_decision\": \"I'd like to try to find out the reason it did that.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"it took off in roll at a high rate in excess of 1 degree per second.\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1318967792,
+      "load_duration": 1022750,
+      "prompt_eval_count": 319,
+      "prompt_eval_cached_count": 314,
+      "prompt_eval_duration": 33421000,
+      "eval_count": 121,
+      "eval_duration": 1281728000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07420",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:23.4837Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"Do you have us on high bit rate here now?\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 941541958,
+      "load_duration": 1027583,
+      "prompt_eval_count": 260,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 105081000,
+      "eval_count": 77,
+      "eval_duration": 832498000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07422",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:24.547698Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"maneuver\",\n  \"request_or_decision\": \"I'll maneuver back to PTC initiation attitude while you guys look at the data and see what you think\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"good\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1062372959,
+      "load_duration": 1117417,
+      "prompt_eval_count": 265,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 102548000,
+      "eval_count": 93,
+      "eval_duration": 956491000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07424",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:25.729575Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"1620\",\n  \"request_or_decision\": \"I think the reason is in having 1620 on the DSKY during the subsequent entries, or at least that's one possibility.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1180028209,
+      "load_duration": 842959,
+      "prompt_eval_count": 293,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 111373000,
+      "eval_count": 101,
+      "eval_duration": 1065430000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07428",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:26.561754Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"Go ahead, Houston.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 830006541,
+      "load_duration": 929333,
+      "prompt_eval_count": 275,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 106389000,
+      "eval_count": 70,
+      "eval_duration": 720280000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07430",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:27.533479Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Stand by one\",\n  \"request_or_decision\": \"They're packed\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 970347625,
+      "load_duration": 903917,
+      "prompt_eval_count": 424,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 147370000,
+      "eval_count": 76,
+      "eval_duration": 819844000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07432",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:29.101114Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"looking for the Cat's Paw\", \"request_or_decision\": \"I think that it's likely that that might have been West Crater that we went across in landing\", \"repeat_or_corrected_message\": \"Stand by.\", \"coordination_problem\": \"we were wondering if Neil or Buzz had observed any additional landmarks during descent, lunar stay, or ascent which would confirm or disprove this.\", \"asking_for_help\": \"We were wondering if Neil or Buzz had observed any additional landmarks during descent, lunar stay, or ascent which would confirm or disprove this.\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1565664083,
+      "load_duration": 854416,
+      "prompt_eval_count": 512,
+      "prompt_eval_cached_count": 507,
+      "prompt_eval_duration": 29551000,
+      "eval_count": 139,
+      "eval_duration": 1531396000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07433",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:29.826184Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"hoping\", \"request_or_decision\": \"we'll be able to confirm our touchdown position\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 723070042,
+      "load_duration": 814792,
+      "prompt_eval_count": 482,
+      "prompt_eval_cached_count": 477,
+      "prompt_eval_duration": 31096000,
+      "eval_count": 64,
+      "eval_duration": 687191000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07440",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:30.617482Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"And I saw that, too.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 789787875,
+      "load_duration": 841083,
+      "prompt_eval_count": 536,
+      "prompt_eval_cached_count": 531,
+      "prompt_eval_duration": 29703000,
+      "eval_count": 72,
+      "eval_duration": 755048000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07442",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:31.492572Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"I took a number of samples of rocks on the surface\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 873256292,
+      "load_duration": 873000,
+      "prompt_eval_count": 663,
+      "prompt_eval_cached_count": 658,
+      "prompt_eval_duration": 31402000,
+      "eval_count": 77,
+      "eval_duration": 835225000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07444",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:32.573142Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"took a stroll back\",\n  \"request_or_decision\": \"took some pictures of it\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"there was no - we apparently, at 15 feet or so, had not gotten below the regolith\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1079245125,
+      "load_duration": 886417,
+      "prompt_eval_count": 389,
+      "prompt_eval_cached_count": 384,
+      "prompt_eval_duration": 30787000,
+      "eval_count": 100,
+      "eval_duration": 1043462000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07448",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:33.511929Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"compliments\",\n  \"request_or_decision\": \"This cream of chicken soup I give at least three spoons.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"outstanding\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 936980333,
+      "load_duration": 833083,
+      "prompt_eval_count": 240,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 94426000,
+      "eval_count": 82,
+      "eval_duration": 837788000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-07508",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:34.247995Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"off hours\", \"request_or_decision\": \"Where do the White Team go\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 734817375,
+      "load_duration": 847292,
+      "prompt_eval_count": 231,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 92400000,
+      "eval_count": 60,
+      "eval_duration": 639624000
+    }
+  },
+  {
+    "stage": "summary",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:09:34.767021Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"summary\": \"You have a moderate load band and Neil expressed anticipation for rest and a beautiful burn. At the next safe pause after operations, allow yourself a few quiet minutes to reset.\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 516859542,
+      "load_duration": 811542,
+      "prompt_eval_count": 245,
+      "prompt_eval_cached_count": 240,
+      "prompt_eval_duration": 28587000,
+      "eval_count": 43,
+      "eval_duration": 485326000
+    }
+  }
+]

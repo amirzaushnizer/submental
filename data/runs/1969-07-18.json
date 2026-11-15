@@ -1,0 +1,2020 @@
+{
+  "schemaVersion": 3,
+  "pipelineVersion": "literal-spans-v3",
+  "date": "1969-07-18",
+  "model": "gemma4:e2b",
+  "provider": "Ollama on this Mac",
+  "startedAt": "2026-11-15T13:59:47.192Z",
+  "generatedAt": "2026-11-15T14:06:47.734Z",
+  "inputSha256": "c576681b111d2d14cefc8c8c1160448915add4082b29bba494dc1a8a0c7252f5",
+  "promptSha256": "8ef15d59f2bab3d8a849bf102ee81877c71c499d0876b82d27efd81920d2bcc4",
+  "inputTargetTurns": 68,
+  "modelReviewedTurns": 60,
+  "totalSourceTurns": 850,
+  "modelDetails": {
+    "parent_model": "",
+    "format": "gguf",
+    "family": "gemma4",
+    "families": [
+      "gemma4"
+    ],
+    "parameter_size": "5.1B",
+    "quantization_level": "Q4_K_M"
+  },
+  "run": {
+    "totalDurationNs": 59793146123,
+    "outputTokens": 4790,
+    "outputTokensPerSecond": 93.75315303695137,
+    "calls": 63
+  },
+  "classifications": [
+    {
+      "labels": [
+        "demand"
+      ],
+      "moment": "none",
+      "why": "Neil voices a request, decision or actionable issue.",
+      "removed": [
+        {
+          "field": "positive_words",
+          "reason": "Model span was not in the target source."
+        },
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-01662",
+      "context_ids": [
+        "a11-01661",
+        "a11-01663",
+        "a11-01664"
+      ],
+      "spans": {
+        "request_or_decision": "We copy",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "copy",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-01668",
+      "context_ids": [
+        "a11-01667",
+        "a11-01669",
+        "a11-01670"
+      ],
+      "spans": {
+        "request_or_decision": "back in P00",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "straightened out",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [
+        "demand",
+        "effort"
+      ],
+      "moment": "none",
+      "why": "This exchange contains a repeat request, restatement or corrected shared value.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-01689",
+      "context_ids": [
+        "a11-01688",
+        "a11-01690",
+        "a11-01691"
+      ],
+      "spans": {
+        "request_or_decision": "what your request is?",
+        "repeat_or_corrected_message": "Would you say again",
+        "coordination_problem": "",
+        "busy_or_rest_words": "Would you say again",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "primary_id": "a11-01691",
+      "context_ids": [],
+      "labels": [],
+      "moment": "none",
+      "why": "Routine acknowledgment; excluded before model inference.",
+      "spans": {},
+      "removed": []
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [],
+      "primary_id": "a11-01693",
+      "context_ids": [
+        "a11-01692",
+        "a11-01694",
+        "a11-01695"
+      ],
+      "spans": {
+        "request_or_decision": "All right.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-01746",
+      "context_ids": [
+        "a11-01745",
+        "a11-01747",
+        "a11-01748"
+      ],
+      "spans": {
+        "request_or_decision": "We've finished our cycling operations",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "finished our cycling operations",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [
+        "demand"
+      ],
+      "moment": "none",
+      "why": "Neil voices a request, decision or actionable issue.",
+      "removed": [],
+      "primary_id": "a11-01752",
+      "context_ids": [
+        "a11-01751",
+        "a11-01753",
+        "a11-01754"
+      ],
+      "spans": {
+        "request_or_decision": "Okay. Stand by.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "primary_id": "a11-01754",
+      "context_ids": [],
+      "labels": [],
+      "moment": "none",
+      "why": "Routine acknowledgment; excluded before model inference.",
+      "spans": {},
+      "removed": []
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-01923",
+      "context_ids": [
+        "a11-01922",
+        "a11-01924",
+        "a11-01925"
+      ],
+      "spans": {
+        "request_or_decision": "Houston",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "Roger",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [
+        "demand",
+        "support"
+      ],
+      "moment": "none",
+      "why": "A technical issue or request is followed by a captured ground or crew response.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-01925",
+      "context_ids": [
+        "a11-01924",
+        "a11-01926",
+        "a11-01927"
+      ],
+      "spans": {
+        "request_or_decision": "check with FAO and see where that errata sheet is",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "check",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "primary_id": "a11-01927",
+      "context_ids": [],
+      "labels": [],
+      "moment": "none",
+      "why": "Routine acknowledgment; excluded before model inference.",
+      "spans": {},
+      "removed": []
+    },
+    {
+      "labels": [
+        "demand"
+      ],
+      "moment": "none",
+      "why": "Neil voices a request, decision or actionable issue.",
+      "removed": [],
+      "primary_id": "a11-01941",
+      "context_ids": [
+        "a11-01940",
+        "a11-01942",
+        "a11-01943"
+      ],
+      "spans": {
+        "request_or_decision": "Go ahead, Houston. Apollo 11.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "primary_id": "a11-01943",
+      "context_ids": [],
+      "labels": [],
+      "moment": "none",
+      "why": "Routine acknowledgment; excluded before model inference.",
+      "spans": {},
+      "removed": []
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-01964",
+      "context_ids": [
+        "a11-01963",
+        "a11-01965",
+        "a11-01966"
+      ],
+      "spans": {
+        "request_or_decision": "Go",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "Okay",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [
+        "demand"
+      ],
+      "moment": "none",
+      "why": "Neil voices a request, decision or actionable issue.",
+      "removed": [],
+      "primary_id": "a11-01992",
+      "context_ids": [
+        "a11-01991",
+        "a11-01993",
+        "a11-01994"
+      ],
+      "spans": {
+        "request_or_decision": "Hello, Houston. Go ahead.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-01994",
+      "context_ids": [
+        "a11-01993",
+        "a11-01995",
+        "a11-01996"
+      ],
+      "spans": {
+        "request_or_decision": "we'll accept those attitudes that you work up for us",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "we're still planning that activity",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [
+        "demand"
+      ],
+      "moment": "none",
+      "why": "Neil voices a request, decision or actionable issue.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-01999",
+      "context_ids": [
+        "a11-01998",
+        "a11-02000",
+        "a11-02001"
+      ],
+      "spans": {
+        "request_or_decision": "Go ahead, Houston",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "Go ahead",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [
+        "demand"
+      ],
+      "moment": "none",
+      "why": "Neil voices a request, decision or actionable issue.",
+      "removed": [],
+      "primary_id": "a11-02073",
+      "context_ids": [
+        "a11-02072",
+        "a11-02074",
+        "a11-02075"
+      ],
+      "spans": {
+        "request_or_decision": "Can you see that?",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02075",
+      "context_ids": [
+        "a11-02074",
+        "a11-02076",
+        "a11-02077"
+      ],
+      "spans": {
+        "request_or_decision": "apparently the TV set's able to pick it up",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "Not much light up in that area",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02077",
+      "context_ids": [
+        "a11-02076",
+        "a11-02078",
+        "a11-02079"
+      ],
+      "spans": {
+        "request_or_decision": "I think those are the tunnel lights.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "tunnel lights",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02080",
+      "context_ids": [
+        "a11-02079",
+        "a11-02081",
+        "a11-02082"
+      ],
+      "spans": {
+        "request_or_decision": "It's loose now.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "Okay",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02083",
+      "context_ids": [
+        "a11-02082",
+        "a11-02084",
+        "a11-02085"
+      ],
+      "spans": {
+        "request_or_decision": "This is the only way",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "bet",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [],
+      "primary_id": "a11-02085",
+      "context_ids": [
+        "a11-02084",
+        "a11-02086",
+        "a11-02087"
+      ],
+      "spans": {
+        "request_or_decision": "",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [],
+      "primary_id": "a11-02087",
+      "context_ids": [
+        "a11-02086",
+        "a11-02088",
+        "a11-02089"
+      ],
+      "spans": {
+        "request_or_decision": "Mike must have done a smooth job in that docking.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "primary_id": "a11-02091",
+      "context_ids": [],
+      "labels": [],
+      "moment": "none",
+      "why": "Routine acknowledgment; excluded before model inference.",
+      "spans": {},
+      "removed": []
+    },
+    {
+      "primary_id": "a11-02093",
+      "context_ids": [],
+      "labels": [],
+      "moment": "none",
+      "why": "Routine acknowledgment; excluded before model inference.",
+      "spans": {},
+      "removed": []
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02094",
+      "context_ids": [
+        "a11-02093",
+        "a11-02095",
+        "a11-02096"
+      ],
+      "spans": {
+        "request_or_decision": "Drogue removal's coming next",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "Okay",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02098",
+      "context_ids": [
+        "a11-02097",
+        "a11-02099",
+        "a11-02100"
+      ],
+      "spans": {
+        "request_or_decision": "",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "not really bad",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02113",
+      "context_ids": [
+        "a11-02112",
+        "a11-02114",
+        "a11-02115"
+      ],
+      "spans": {
+        "request_or_decision": "It's Mike checking his connectors up there now.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "checking",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02116",
+      "context_ids": [
+        "a11-02115",
+        "a11-02117",
+        "a11-02118"
+      ],
+      "spans": {
+        "request_or_decision": "I think that's mostly the camera",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "subdued",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "primary_id": "a11-02129",
+      "context_ids": [],
+      "labels": [],
+      "moment": "none",
+      "why": "Routine acknowledgment; excluded before model inference.",
+      "spans": {},
+      "removed": []
+    },
+    {
+      "labels": [
+        "demand"
+      ],
+      "moment": "none",
+      "why": "Neil voices a request, decision or actionable issue.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02130",
+      "context_ids": [
+        "a11-02129",
+        "a11-02131",
+        "a11-02132"
+      ],
+      "spans": {
+        "request_or_decision": "go into the LM early",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "ready to go",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "Neil explicitly describes something positively.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02178",
+      "context_ids": [
+        "a11-02177",
+        "a11-02179",
+        "a11-02180"
+      ],
+      "spans": {
+        "request_or_decision": "Yes, the lighting in the LM is very nice now, just like completely daylight; and everything is visible. A good bit lighter than the tunnel was earlier.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "lighting",
+        "asking_for_help": "",
+        "positive_words": "very nice"
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02278",
+      "context_ids": [
+        "a11-02277",
+        "a11-02279",
+        "a11-02280"
+      ],
+      "spans": {
+        "request_or_decision": "",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "upside-down",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02317",
+      "context_ids": [
+        "a11-02316",
+        "a11-02318",
+        "a11-02319"
+      ],
+      "spans": {
+        "request_or_decision": "he is looking for it now",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "looking for it now",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02319",
+      "context_ids": [
+        "a11-02318",
+        "a11-02320",
+        "a11-02321"
+      ],
+      "spans": {
+        "request_or_decision": "I already found the 90-degree bracket",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "pretty good",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02330",
+      "context_ids": [
+        "a11-02329",
+        "a11-02331",
+        "a11-02332"
+      ],
+      "spans": {
+        "request_or_decision": "That was me picking up some particles of paint that were floating through the air in front of the camera, there.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "picking up some particles of paint that were floating through the air",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02361",
+      "context_ids": [
+        "a11-02360",
+        "a11-02362",
+        "a11-02363"
+      ],
+      "spans": {
+        "request_or_decision": "The traverse from the bottom of the LM to the aft bulkhead of the command module must be about 16, 20 feet.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "interesting to contemplate",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [
+        "demand"
+      ],
+      "moment": "none",
+      "why": "Neil voices a request, decision or actionable issue.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02363",
+      "context_ids": [
+        "a11-02362",
+        "a11-02364",
+        "a11-02365"
+      ],
+      "spans": {
+        "request_or_decision": "he hasn't come up with the price of the ticket yet",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "willing",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [],
+      "primary_id": "a11-02365",
+      "context_ids": [
+        "a11-02364",
+        "a11-02366",
+        "a11-02367"
+      ],
+      "spans": {
+        "request_or_decision": "If I can get him to keep his hands off my DSKY, it'd be a fair swap.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "Neil explicitly describes something positively.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02370",
+      "context_ids": [
+        "a11-02369",
+        "a11-02371",
+        "a11-02372"
+      ],
+      "spans": {
+        "request_or_decision": "That's the Earth, and we have a very good view of it today.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "beautiful sight",
+        "asking_for_help": "",
+        "positive_words": "beautiful sight"
+      }
+    },
+    {
+      "labels": [
+        "demand"
+      ],
+      "moment": "none",
+      "why": "Neil voices a request, decision or actionable issue.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02371",
+      "context_ids": [
+        "a11-02370",
+        "a11-02372",
+        "a11-02373"
+      ],
+      "spans": {
+        "request_or_decision": "Are we transmitting that to you, or do you have a clear picture?",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "horizontal banding",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02373",
+      "context_ids": [
+        "a11-02372",
+        "a11-02374",
+        "a11-02375"
+      ],
+      "spans": {
+        "request_or_decision": "We have that in our monitor also.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "Roger",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02375",
+      "context_ids": [
+        "a11-02374",
+        "a11-02376",
+        "a11-02377"
+      ],
+      "spans": {
+        "request_or_decision": "No, those are the same three ones that we have",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "those are the same three ones that we have",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [
+        "demand",
+        "support"
+      ],
+      "moment": "none",
+      "why": "A technical issue or request is followed by a captured ground or crew response.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02379",
+      "context_ids": [
+        "a11-02378",
+        "a11-02380",
+        "a11-02381"
+      ],
+      "spans": {
+        "request_or_decision": "we can give you",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "difference",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [
+        "demand"
+      ],
+      "moment": "none",
+      "why": "Neil voices a request, decision or actionable issue.",
+      "removed": [],
+      "primary_id": "a11-02382",
+      "context_ids": [
+        "a11-02381",
+        "a11-02383",
+        "a11-02384"
+      ],
+      "spans": {
+        "request_or_decision": "That's nautical miles?",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [
+        "demand"
+      ],
+      "moment": "none",
+      "why": "Neil voices a request, decision or actionable issue.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02390",
+      "context_ids": [
+        "a11-02389",
+        "a11-02391",
+        "a11-02392"
+      ],
+      "spans": {
+        "request_or_decision": "I'd like to say hello to all my fellow scouts and scouters at Farragut State Park in Idaho having a National Jamboree there this week; and Apollo 11 would like to send them best wishes.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "hello",
+        "asking_for_help": "",
+        "positive_words": "best wishes"
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "Neil explicitly describes something positively.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02393",
+      "context_ids": [
+        "a11-02392",
+        "a11-02394",
+        "a11-02395"
+      ],
+      "spans": {
+        "request_or_decision": "That looks like what we observe from here.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "That",
+        "asking_for_help": "",
+        "positive_words": "That"
+      }
+    },
+    {
+      "labels": [
+        "demand"
+      ],
+      "moment": "none",
+      "why": "Neil voices a request, decision or actionable issue.",
+      "removed": [
+        {
+          "field": "positive_words",
+          "reason": "Model span was not in the target source."
+        },
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02394",
+      "context_ids": [
+        "a11-02393",
+        "a11-02395",
+        "a11-02396"
+      ],
+      "spans": {
+        "request_or_decision": "Apollo 11 signing off",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "turn our TV monitor off now",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "Neil explicitly describes something positively.",
+      "removed": [],
+      "primary_id": "a11-02396",
+      "context_ids": [
+        "a11-02395",
+        "a11-02397",
+        "a11-02398"
+      ],
+      "spans": {
+        "request_or_decision": "It was a pleasure.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "",
+        "asking_for_help": "",
+        "positive_words": "It was a pleasure."
+      }
+    },
+    {
+      "labels": [
+        "demand",
+        "pressure"
+      ],
+      "moment": "load",
+      "why": "Neil explicitly describes being busy, divided attention or a need for rest.",
+      "removed": [],
+      "primary_id": "a11-02398",
+      "context_ids": [
+        "a11-02397",
+        "a11-02399",
+        "a11-02400"
+      ],
+      "spans": {
+        "request_or_decision": "We're going to make sure that we have everything transferred around and stowed the way we want it and try to get a little bit ahead on tomorrow's timeline",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "a little more work to do",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "coordination",
+          "reason": "Source constraint did not support this label."
+        },
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02400",
+      "context_ids": [
+        "a11-02399",
+        "a11-02401",
+        "a11-02402"
+      ],
+      "spans": {
+        "request_or_decision": "get a flight plan update from you for the next couple of hours",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "what the various constraints might be and what - what order you might like us to do things",
+        "busy_or_rest_words": "flight plan update",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02405",
+      "context_ids": [
+        "a11-02404",
+        "a11-02406",
+        "a11-02407"
+      ],
+      "spans": {
+        "request_or_decision": "Houston, 11.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "Houston, 11.",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [
+        "support"
+      ],
+      "moment": "none",
+      "why": "A technical issue or request is followed by a captured ground or crew response.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02407",
+      "context_ids": [
+        "a11-02406",
+        "a11-02408",
+        "a11-02409"
+      ],
+      "spans": {
+        "request_or_decision": "Just noticed that the mast that the EVA light is on is charred brown.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "Roger",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [],
+      "primary_id": "a11-02409",
+      "context_ids": [
+        "a11-02408",
+        "a11-02410",
+        "a11-02411"
+      ],
+      "spans": {
+        "request_or_decision": "The EVA light still does work.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "primary_id": "a11-02411",
+      "context_ids": [],
+      "labels": [],
+      "moment": "none",
+      "why": "Routine acknowledgment; excluded before model inference.",
+      "spans": {},
+      "removed": []
+    },
+    {
+      "labels": [
+        "demand",
+        "effort"
+      ],
+      "moment": "none",
+      "why": "This exchange contains a repeat request, restatement or corrected shared value.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02413",
+      "context_ids": [
+        "a11-02412",
+        "a11-02414",
+        "a11-02415"
+      ],
+      "spans": {
+        "request_or_decision": "we would just as soon, ourselves, terminate the TV",
+        "repeat_or_corrected_message": "turn it back on",
+        "coordination_problem": "",
+        "busy_or_rest_words": "terminate the TV",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [
+        "effort",
+        "coordination"
+      ],
+      "moment": "none",
+      "why": "This exchange contains a repeat request, restatement or corrected shared value.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        },
+        {
+          "label": "support",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02416",
+      "context_ids": [
+        "a11-02415",
+        "a11-02417",
+        "a11-02418"
+      ],
+      "spans": {
+        "request_or_decision": "PTC at 58 hours",
+        "repeat_or_corrected_message": "PTC at 58 hours",
+        "coordination_problem": "PTC at 58 hours",
+        "busy_or_rest_words": "PTC at 58 hours",
+        "asking_for_help": "PTC at 58 hours",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02418",
+      "context_ids": [
+        "a11-02417",
+        "a11-02419",
+        "a11-02420"
+      ],
+      "spans": {
+        "request_or_decision": "Fine",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "Okay",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [
+        "demand"
+      ],
+      "moment": "none",
+      "why": "Neil voices a request, decision or actionable issue.",
+      "removed": [],
+      "primary_id": "a11-02442",
+      "context_ids": [
+        "a11-02441",
+        "a11-02443",
+        "a11-02444"
+      ],
+      "spans": {
+        "request_or_decision": "Go ahead.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [
+        "demand",
+        "support"
+      ],
+      "moment": "none",
+      "why": "A technical issue or request is followed by a captured ground or crew response.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02444",
+      "context_ids": [
+        "a11-02443",
+        "a11-02445",
+        "a11-02446"
+      ],
+      "spans": {
+        "request_or_decision": "we can't pronounce it either",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "can't",
+        "asking_for_help": "",
+        "positive_words": "I think you'll enjoy that"
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02457",
+      "context_ids": [
+        "a11-02456",
+        "a11-02458",
+        "a11-02459"
+      ],
+      "spans": {
+        "request_or_decision": "We're completed in the LM.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "We're completed in the LM. We're closing up the hatches and the probe and drogue back in.",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [
+        "demand"
+      ],
+      "moment": "none",
+      "why": "Neil voices a request, decision or actionable issue.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02460",
+      "context_ids": [
+        "a11-02459",
+        "a11-02461",
+        "a11-02462"
+      ],
+      "spans": {
+        "request_or_decision": "We're going to be a couple of minutes late, probably, getting started in the PTC.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "finishing up",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [
+        "demand"
+      ],
+      "moment": "none",
+      "why": "Neil voices a request, decision or actionable issue.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02468",
+      "context_ids": [
+        "a11-02467",
+        "a11-02469",
+        "a11-02470"
+      ],
+      "spans": {
+        "request_or_decision": "Stand by",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "Stand by",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [
+        "demand"
+      ],
+      "moment": "none",
+      "why": "Neil voices a request, decision or actionable issue.",
+      "removed": [],
+      "primary_id": "a11-02469",
+      "context_ids": [
+        "a11-02468",
+        "a11-02470",
+        "a11-02471"
+      ],
+      "spans": {
+        "request_or_decision": "11's ready to copy.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [],
+      "primary_id": "a11-02471",
+      "context_ids": [
+        "a11-02470",
+        "a11-02472",
+        "a11-02473"
+      ],
+      "spans": {
+        "request_or_decision": "Okay.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "No clear KPI cue in the extracted source spans.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02473",
+      "context_ids": [
+        "a11-02472",
+        "a11-02474",
+        "a11-02475"
+      ],
+      "spans": {
+        "request_or_decision": "I have in F2-22, column Lima, item 6, 00001; item 7, 02134.",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "Okay",
+        "asking_for_help": "",
+        "positive_words": ""
+      }
+    },
+    {
+      "labels": [],
+      "moment": "none",
+      "why": "Neil explicitly describes something positively.",
+      "removed": [
+        {
+          "label": "pressure",
+          "reason": "Source constraint did not support this label."
+        }
+      ],
+      "primary_id": "a11-02476",
+      "context_ids": [
+        "a11-02475",
+        "a11-02477",
+        "a11-02478"
+      ],
+      "spans": {
+        "request_or_decision": "Roger",
+        "repeat_or_corrected_message": "",
+        "coordination_problem": "",
+        "busy_or_rest_words": "Thank you",
+        "asking_for_help": "",
+        "positive_words": "Thank you"
+      }
+    }
+  ],
+  "guardedLabels": 49,
+  "analysis": {
+    "day_load": "light",
+    "summary": "You had a light load band and Neil was focused on completing transfers and locating an errata sheet. At the next safe pause after operations, allow yourself a few quiet minutes to reset.",
+    "metrics": {
+      "demand": [
+        {
+          "primary_id": "a11-01662",
+          "grouped_ids": [
+            "a11-01662"
+          ],
+          "context_ids": [
+            "a11-01661",
+            "a11-01663",
+            "a11-01664"
+          ],
+          "title": "Neil voices a request, decision or actionable issue.",
+          "explanation": "Neil voices a request, decision or actionable issue."
+        },
+        {
+          "primary_id": "a11-01689",
+          "grouped_ids": [
+            "a11-01689"
+          ],
+          "context_ids": [
+            "a11-01688",
+            "a11-01690",
+            "a11-01691"
+          ],
+          "title": "This exchange contains a repeat request, restatement or corrected shared value.",
+          "explanation": "This exchange contains a repeat request, restatement or corrected shared value."
+        },
+        {
+          "primary_id": "a11-01752",
+          "grouped_ids": [
+            "a11-01752"
+          ],
+          "context_ids": [
+            "a11-01751",
+            "a11-01753",
+            "a11-01754"
+          ],
+          "title": "Neil voices a request, decision or actionable issue.",
+          "explanation": "Neil voices a request, decision or actionable issue."
+        },
+        {
+          "primary_id": "a11-01925",
+          "grouped_ids": [
+            "a11-01925"
+          ],
+          "context_ids": [
+            "a11-01924",
+            "a11-01926",
+            "a11-01927"
+          ],
+          "title": "A technical issue or request is followed by a captured ground or crew response.",
+          "explanation": "A technical issue or request is followed by a captured ground or crew response."
+        },
+        {
+          "primary_id": "a11-01941",
+          "grouped_ids": [
+            "a11-01941"
+          ],
+          "context_ids": [
+            "a11-01940",
+            "a11-01942",
+            "a11-01943"
+          ],
+          "title": "Neil voices a request, decision or actionable issue.",
+          "explanation": "Neil voices a request, decision or actionable issue."
+        },
+        {
+          "primary_id": "a11-01992",
+          "grouped_ids": [
+            "a11-01992"
+          ],
+          "context_ids": [
+            "a11-01991",
+            "a11-01993",
+            "a11-01994"
+          ],
+          "title": "Neil voices a request, decision or actionable issue.",
+          "explanation": "Neil voices a request, decision or actionable issue."
+        },
+        {
+          "primary_id": "a11-01999",
+          "grouped_ids": [
+            "a11-01999"
+          ],
+          "context_ids": [
+            "a11-01998",
+            "a11-02000",
+            "a11-02001"
+          ],
+          "title": "Neil voices a request, decision or actionable issue.",
+          "explanation": "Neil voices a request, decision or actionable issue."
+        },
+        {
+          "primary_id": "a11-02073",
+          "grouped_ids": [
+            "a11-02073"
+          ],
+          "context_ids": [
+            "a11-02072",
+            "a11-02074",
+            "a11-02075"
+          ],
+          "title": "Neil voices a request, decision or actionable issue.",
+          "explanation": "Neil voices a request, decision or actionable issue."
+        },
+        {
+          "primary_id": "a11-02130",
+          "grouped_ids": [
+            "a11-02130"
+          ],
+          "context_ids": [
+            "a11-02129",
+            "a11-02131",
+            "a11-02132"
+          ],
+          "title": "Neil voices a request, decision or actionable issue.",
+          "explanation": "Neil voices a request, decision or actionable issue."
+        },
+        {
+          "primary_id": "a11-02363",
+          "grouped_ids": [
+            "a11-02363"
+          ],
+          "context_ids": [
+            "a11-02362",
+            "a11-02364",
+            "a11-02365"
+          ],
+          "title": "Neil voices a request, decision or actionable issue.",
+          "explanation": "Neil voices a request, decision or actionable issue."
+        },
+        {
+          "primary_id": "a11-02371",
+          "grouped_ids": [
+            "a11-02371",
+            "a11-02379"
+          ],
+          "context_ids": [
+            "a11-02370",
+            "a11-02372",
+            "a11-02373",
+            "a11-02378",
+            "a11-02380",
+            "a11-02381"
+          ],
+          "title": "Neil voices a request, decision or actionable issue.",
+          "explanation": "Neil voices a request, decision or actionable issue."
+        },
+        {
+          "primary_id": "a11-02382",
+          "grouped_ids": [
+            "a11-02382",
+            "a11-02390"
+          ],
+          "context_ids": [
+            "a11-02381",
+            "a11-02383",
+            "a11-02384",
+            "a11-02389",
+            "a11-02391",
+            "a11-02392"
+          ],
+          "title": "Neil voices a request, decision or actionable issue.",
+          "explanation": "Neil voices a request, decision or actionable issue."
+        },
+        {
+          "primary_id": "a11-02394",
+          "grouped_ids": [
+            "a11-02394"
+          ],
+          "context_ids": [
+            "a11-02393",
+            "a11-02395",
+            "a11-02396"
+          ],
+          "title": "Neil voices a request, decision or actionable issue.",
+          "explanation": "Neil voices a request, decision or actionable issue."
+        },
+        {
+          "primary_id": "a11-02398",
+          "grouped_ids": [
+            "a11-02398"
+          ],
+          "context_ids": [
+            "a11-02397",
+            "a11-02399",
+            "a11-02400"
+          ],
+          "title": "Neil explicitly describes being busy, divided attention or a need for rest.",
+          "explanation": "Neil explicitly describes being busy, divided attention or a need for rest."
+        },
+        {
+          "primary_id": "a11-02413",
+          "grouped_ids": [
+            "a11-02413"
+          ],
+          "context_ids": [
+            "a11-02412",
+            "a11-02414",
+            "a11-02415"
+          ],
+          "title": "This exchange contains a repeat request, restatement or corrected shared value.",
+          "explanation": "This exchange contains a repeat request, restatement or corrected shared value."
+        },
+        {
+          "primary_id": "a11-02442",
+          "grouped_ids": [
+            "a11-02442",
+            "a11-02444"
+          ],
+          "context_ids": [
+            "a11-02441",
+            "a11-02443",
+            "a11-02444",
+            "a11-02445",
+            "a11-02446"
+          ],
+          "title": "Neil voices a request, decision or actionable issue.",
+          "explanation": "Neil voices a request, decision or actionable issue."
+        },
+        {
+          "primary_id": "a11-02460",
+          "grouped_ids": [
+            "a11-02460"
+          ],
+          "context_ids": [
+            "a11-02459",
+            "a11-02461",
+            "a11-02462"
+          ],
+          "title": "Neil voices a request, decision or actionable issue.",
+          "explanation": "Neil voices a request, decision or actionable issue."
+        },
+        {
+          "primary_id": "a11-02468",
+          "grouped_ids": [
+            "a11-02468"
+          ],
+          "context_ids": [
+            "a11-02467",
+            "a11-02469",
+            "a11-02470"
+          ],
+          "title": "Neil voices a request, decision or actionable issue.",
+          "explanation": "Neil voices a request, decision or actionable issue."
+        },
+        {
+          "primary_id": "a11-02469",
+          "grouped_ids": [
+            "a11-02469"
+          ],
+          "context_ids": [
+            "a11-02468",
+            "a11-02470",
+            "a11-02471"
+          ],
+          "title": "Neil voices a request, decision or actionable issue.",
+          "explanation": "Neil voices a request, decision or actionable issue."
+        }
+      ],
+      "effort": [
+        {
+          "primary_id": "a11-01689",
+          "grouped_ids": [
+            "a11-01689"
+          ],
+          "context_ids": [
+            "a11-01688",
+            "a11-01690",
+            "a11-01691"
+          ],
+          "title": "This exchange contains a repeat request, restatement or corrected shared value.",
+          "explanation": "This exchange contains a repeat request, restatement or corrected shared value."
+        },
+        {
+          "primary_id": "a11-02413",
+          "grouped_ids": [
+            "a11-02413",
+            "a11-02416"
+          ],
+          "context_ids": [
+            "a11-02412",
+            "a11-02414",
+            "a11-02415",
+            "a11-02417",
+            "a11-02418"
+          ],
+          "title": "This exchange contains a repeat request, restatement or corrected shared value.",
+          "explanation": "This exchange contains a repeat request, restatement or corrected shared value."
+        }
+      ],
+      "coordination": [
+        {
+          "primary_id": "a11-02416",
+          "grouped_ids": [
+            "a11-02416"
+          ],
+          "context_ids": [
+            "a11-02415",
+            "a11-02417",
+            "a11-02418"
+          ],
+          "title": "This exchange contains a repeat request, restatement or corrected shared value.",
+          "explanation": "This exchange contains a repeat request, restatement or corrected shared value."
+        }
+      ],
+      "pressure": [
+        {
+          "primary_id": "a11-02398",
+          "grouped_ids": [
+            "a11-02398"
+          ],
+          "context_ids": [
+            "a11-02397",
+            "a11-02399",
+            "a11-02400"
+          ],
+          "title": "Neil explicitly describes being busy, divided attention or a need for rest.",
+          "explanation": "Neil explicitly describes being busy, divided attention or a need for rest."
+        }
+      ],
+      "support": [
+        {
+          "primary_id": "a11-01925",
+          "grouped_ids": [
+            "a11-01925"
+          ],
+          "context_ids": [
+            "a11-01924",
+            "a11-01926",
+            "a11-01927"
+          ],
+          "title": "A technical issue or request is followed by a captured ground or crew response.",
+          "explanation": "A technical issue or request is followed by a captured ground or crew response."
+        },
+        {
+          "primary_id": "a11-02379",
+          "grouped_ids": [
+            "a11-02379"
+          ],
+          "context_ids": [
+            "a11-02378",
+            "a11-02380",
+            "a11-02381"
+          ],
+          "title": "A technical issue or request is followed by a captured ground or crew response.",
+          "explanation": "A technical issue or request is followed by a captured ground or crew response."
+        },
+        {
+          "primary_id": "a11-02407",
+          "grouped_ids": [
+            "a11-02407"
+          ],
+          "context_ids": [
+            "a11-02406",
+            "a11-02408",
+            "a11-02409"
+          ],
+          "title": "A technical issue or request is followed by a captured ground or crew response.",
+          "explanation": "A technical issue or request is followed by a captured ground or crew response."
+        },
+        {
+          "primary_id": "a11-02444",
+          "grouped_ids": [
+            "a11-02444"
+          ],
+          "context_ids": [
+            "a11-02443",
+            "a11-02445",
+            "a11-02446"
+          ],
+          "title": "A technical issue or request is followed by a captured ground or crew response.",
+          "explanation": "A technical issue or request is followed by a captured ground or crew response."
+        }
+      ]
+    },
+    "moments": [
+      {
+        "primary_id": "a11-02398",
+        "kind": "load",
+        "meaning": "Neil explicitly describes being busy, divided attention or a need for rest."
+      },
+      {
+        "primary_id": "a11-01925",
+        "kind": "coping",
+        "meaning": "A technical issue or request is followed by a captured ground or crew response."
+      },
+      {
+        "primary_id": "a11-02178",
+        "kind": "positive",
+        "meaning": "Neil explicitly describes something positively."
+      }
+    ],
+    "recommendations": [
+      {
+        "id": "pause",
+        "title": "Take a quiet pause",
+        "action": "At the next safe, agreed pause, give yourself a few quiet minutes before another optional task.",
+        "reason": "A small recovery step for the next safe agreed pause or after operations."
+      },
+      {
+        "id": "simple",
+        "title": "Keep the next optional block simple",
+        "action": "Ask to group nonurgent questions or defer an optional task while required mission work stays protected.",
+        "reason": "A small recovery step for the next safe agreed pause or after operations."
+      },
+      {
+        "id": "rest",
+        "title": "Protect your next rest opportunity",
+        "action": "After operations, keep the agreed rest time clear and check in with yourself about how you feel.",
+        "reason": "A small recovery step for the next safe agreed pause or after operations."
+      }
+    ]
+  },
+  "loadBandSource": "Example rule: demanding if demand >20 and pressure >=2; moderate if demand >20, effort >2, coordination >1 or pressure >1; otherwise light. All baseline ranges are simulated; not clinical thresholds."
+}

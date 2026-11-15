@@ -1,0 +1,1061 @@
+{
+  "schemaVersion": 1,
+  "date": "1969-07-20",
+  "targetSpeaker": "CDR",
+  "analysisType": "Offline AI semantic review of the complete extracted Armstrong day, with explicit context links. Not a live model run or validated mental health assessment.",
+  "reviewedCdrTimes": [
+    "083:03:43",
+    "083:03:49",
+    "083:04:22",
+    "083:04:28",
+    "083:09:54",
+    "083:38:01",
+    "085:40:20",
+    "095:16:28",
+    "095:20:47",
+    "095:30:27",
+    "096:57:20",
+    "096:57:57",
+    "096:58:10",
+    "097:00:04",
+    "097:00:13",
+    "097:00:24",
+    "097:01:05",
+    "097:01:11",
+    "097:01:22",
+    "097:01:46",
+    "097:01:53",
+    "097:02:23",
+    "097:02:29",
+    "097:03:35",
+    "097:03:46",
+    "097:03:59",
+    "097:04:03",
+    "097:04:06",
+    "097:04:20",
+    "097:04:46",
+    "097:05:00",
+    "097:05:06",
+    "097:05:20",
+    "097:06:37",
+    "097:08:21",
+    "097:08:37",
+    "097:08:38",
+    "097:08:57",
+    "097:11:40",
+    "097:11:52",
+    "097:13:55",
+    "097:14:09",
+    "097:14:19",
+    "097:14:22",
+    "097:14:38",
+    "097:15:07",
+    "097:15:34",
+    "097:15:42",
+    "097:21:47",
+    "097:22:34",
+    "097:24:18",
+    "097:24:37",
+    "097:25:53",
+    "097:27:54",
+    "097:28:39",
+    "097:28:51",
+    "097:29:41",
+    "098:31:25",
+    "098:31:29",
+    "098:40:02",
+    "098:41:01",
+    "098:54:49",
+    "098:55:11",
+    "098:56:19",
+    "098:57:44",
+    "099:03:37",
+    "099:03:39",
+    "099:03:57",
+    "099:04:02",
+    "099:04:20",
+    "099:04:47",
+    "099:05:09",
+    "099:16:37",
+    "099:22:09",
+    "099:24:50",
+    "099:29:18",
+    "100:18:01",
+    "100:18:04",
+    "100:18:08",
+    "100:18:41",
+    "100:19:02",
+    "100:20:06",
+    "100:29:04",
+    "100:31:05",
+    "100:31:20",
+    "100:31:45",
+    "100:36:21",
+    "100:36:28",
+    "100:36:46",
+    "100:37:36",
+    "100:38:56",
+    "100:43:00",
+    "101:19:46",
+    "101:20:18",
+    "102:24:38",
+    "102:26:28",
+    "102:29:07",
+    "102:36:18",
+    "102:36:36",
+    "102:38:23",
+    "102:38:26",
+    "102:38:30",
+    "102:38:48",
+    "102:38:59",
+    "102:39:06",
+    "102:39:35",
+    "102:40:55",
+    "102:42:05",
+    "102:42:24",
+    "102:43:57",
+    "102:45:32",
+    "102:45:46",
+    "102:45:59",
+    "102:46:04",
+    "102:46:16",
+    "102:46:23",
+    "102:47:12",
+    "102:48:26",
+    "102:51:52",
+    "102:55:16",
+    "102:57:00",
+    "102:57:15",
+    "102:57:55",
+    "102:58:48",
+    "103:00:58",
+    "103:02:03",
+    "103:03:32",
+    "103:03:55",
+    "103:05:02",
+    "103:05:11",
+    "103:05:38",
+    "103:08:07",
+    "103:08:24",
+    "103:10:45",
+    "103:11:12",
+    "103:11:47",
+    "103:12:44",
+    "103:14:42",
+    "103:14:59",
+    "103:16:00",
+    "103:16:14",
+    "103:17:01",
+    "103:17:34",
+    "103:17:38",
+    "103:19:25",
+    "103:21:10",
+    "103:22:17",
+    "103:22:30",
+    "103:36:44",
+    "103:36:51",
+    "103:39:46",
+    "103:49:19",
+    "103:49:35",
+    "103:54:09",
+    "103:59:41",
+    "104:02:35",
+    "104:02:51",
+    "104:03:18",
+    "104:14:52",
+    "104:18:38",
+    "104:18:59",
+    "104:21:40",
+    "104:22:27",
+    "104:23:33",
+    "104:23:49",
+    "104:25:47",
+    "104:26:19",
+    "104:34:55",
+    "104:35:31",
+    "104:40:08",
+    "104:40:46",
+    "104:40:52",
+    "104:41:09",
+    "104:49:39",
+    "105:07:26",
+    "105:35:07",
+    "105:47:43",
+    "106:11:14",
+    "106:23:05",
+    "106:23:19",
+    "106:23:30"
+  ],
+  "inputSha256": "ace744b943e07192909c5dcb7545d377e80a086573ee43a3a815f6996c1e465c",
+  "scope": "Voiced requests, decisions and issue reports; four reviewed repair exchanges; two coordination snags; two explicit busy statements; four technical-support exchanges. Counts overlap between KPIs.",
+  "dayStatus": "Demanding",
+  "comparisonStatus": "Above simulated personal baseline",
+  "dayRationale": "Critical landing work and Armstrong’s own description of alarms competing with landing-site observation support a demanding-day interpretation. Today’s demand, repair, coordination and pressure counts exceed the simulated usual ranges used for this demo; captured support responses are within that simulated usual range. The baseline is illustrative, not reconstructed historical data. Transcript volume alone is not a mental health measure.",
+  "episodes": {
+    "demand": [
+      {
+        "id": "demand-01",
+        "title": "Activation mismatch",
+        "refs": [
+          {
+            "get": "083:03:49",
+            "speaker": "CDR"
+          },
+          {
+            "get": "083:04:22",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Reports an unexpected talkback state; later reports a circuit breaker out of position."
+      },
+      {
+        "id": "demand-02",
+        "title": "Radio sender check",
+        "refs": [
+          {
+            "get": "083:09:54",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Checks which channel Collins is transmitting on."
+      },
+      {
+        "id": "demand-03",
+        "title": "Radio channel setup",
+        "refs": [
+          {
+            "get": "097:00:04",
+            "speaker": "CDR"
+          },
+          {
+            "get": "097:00:24",
+            "speaker": "CDR"
+          },
+          {
+            "get": "097:01:05",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Checks Simplex B, asks Collins to configure Simplex A, then checks A. Grouped as one setup episode."
+      },
+      {
+        "id": "demand-04",
+        "title": "Clock loading and synchronization",
+        "refs": [
+          {
+            "get": "097:01:22",
+            "speaker": "CDR"
+          },
+          {
+            "get": "097:01:46",
+            "speaker": "CDR"
+          },
+          {
+            "get": "097:01:53",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Requests the clock data and agrees the order for loading it. Follow-up turns are one episode."
+      },
+      {
+        "id": "demand-05",
+        "title": "Timed synchronization mark",
+        "refs": [
+          {
+            "get": "097:03:46",
+            "speaker": "CDR"
+          },
+          {
+            "get": "097:03:59",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Coordinates a timed mark and checks receipt."
+      },
+      {
+        "id": "demand-06",
+        "title": "Ephemeris data request",
+        "refs": [
+          {
+            "get": "097:04:46",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Requests T EPHEM via a specified verb/noun sequence."
+      },
+      {
+        "id": "demand-07",
+        "title": "Docked alignment setup",
+        "refs": [
+          {
+            "get": "097:06:37",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Coordinates an alignment and asks for minimum-deadband attitude hold."
+      },
+      {
+        "id": "demand-08",
+        "title": "Alignment angle data",
+        "refs": [
+          {
+            "get": "097:08:21",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Requests NOUN 20 values."
+      },
+      {
+        "id": "demand-09",
+        "title": "Release attitude hold",
+        "refs": [
+          {
+            "get": "097:11:52",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Tells Collins the hold is no longer needed; an explicit change in coordination."
+      },
+      {
+        "id": "demand-10",
+        "title": "Repeat timed measurement",
+        "refs": [
+          {
+            "get": "097:13:55",
+            "speaker": "CDR"
+          },
+          {
+            "get": "097:14:09",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Requests NOUN 20 again and restarts the mark. Routine measurement repetition, not counted as confusion."
+      },
+      {
+        "id": "demand-11",
+        "title": "Check angle reception",
+        "refs": [
+          {
+            "get": "097:15:07",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Checks that ground copied the angles."
+      },
+      {
+        "id": "demand-12",
+        "title": "Check associated time",
+        "refs": [
+          {
+            "get": "097:15:42",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Checks that ground has the measurement time."
+      },
+      {
+        "id": "demand-13",
+        "title": "Confirm next alignment command",
+        "refs": [
+          {
+            "get": "097:24:18",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Asks whether to execute VERB 42 now."
+      },
+      {
+        "id": "demand-14",
+        "title": "Check angle copy",
+        "refs": [
+          {
+            "get": "097:25:53",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Checks receipt of torquing angles."
+      },
+      {
+        "id": "demand-15",
+        "title": "Clarify addressee",
+        "refs": [
+          {
+            "get": "098:31:25",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Asks whether the message is to Columbia."
+      },
+      {
+        "id": "demand-16",
+        "title": "Ground viewing configuration",
+        "refs": [
+          {
+            "get": "098:40:02",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Asks about high-gain use before ground checks an indicator."
+      },
+      {
+        "id": "demand-17",
+        "title": "RCS checkout readiness",
+        "refs": [
+          {
+            "get": "098:54:49",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Asks ground whether to begin the RCS checkout."
+      },
+      {
+        "id": "demand-18",
+        "title": "Coordinate timed data display",
+        "refs": [
+          {
+            "get": "099:03:39",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Asks Collins to configure a display for a timed check."
+      },
+      {
+        "id": "demand-19",
+        "title": "Confirm maneuver status",
+        "refs": [
+          {
+            "get": "099:24:50",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Checks whether Collins is maneuvering."
+      },
+      {
+        "id": "demand-20",
+        "title": "Tracking light check",
+        "refs": [
+          {
+            "get": "100:18:41",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Asks Collins to check the tracking light."
+      },
+      {
+        "id": "demand-21",
+        "title": "Coordinate yaw maneuver",
+        "refs": [
+          {
+            "get": "100:19:02",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Offers to begin yaw when it suits Collins."
+      },
+      {
+        "id": "demand-22",
+        "title": "Thruster-use question",
+        "refs": [
+          {
+            "get": "100:20:06",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Asks whether the operation can proceed without thruster use."
+      },
+      {
+        "id": "demand-23",
+        "title": "Repeat high-gain angles",
+        "refs": [
+          {
+            "get": "100:31:05",
+            "speaker": "CDR"
+          },
+          {
+            "get": "100:31:20",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Requests the numbers again, then reads back the repeated angles. One episode."
+      },
+      {
+        "id": "demand-24",
+        "title": "Separation pitch question",
+        "refs": [
+          {
+            "get": "100:36:21",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Asks Collins for the pitch angle at separation."
+      },
+      {
+        "id": "demand-25",
+        "title": "Checklist restatement",
+        "refs": [
+          {
+            "get": "102:29:07",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Asks What? and Aldrin restates checklist items."
+      },
+      {
+        "id": "demand-26",
+        "title": "Check ground monitoring",
+        "refs": [
+          {
+            "get": "102:38:23",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Checks that ground is monitoring DELTA-H."
+      },
+      {
+        "id": "demand-27",
+        "title": "Ask for alarm interpretation",
+        "refs": [
+          {
+            "get": "102:38:48",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Requests ground guidance on the 1202 computer alarm. Alarm announcements are grouped, not counted as separate requests."
+      },
+      {
+        "id": "demand-28",
+        "title": "Confirm drift",
+        "refs": [
+          {
+            "get": "102:45:32",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Checks forward drift during landing."
+      },
+      {
+        "id": "demand-29",
+        "title": "Protect immediate task time",
+        "refs": [
+          {
+            "get": "102:46:23",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Tells ground the crew will be busy for a minute."
+      },
+      {
+        "id": "demand-30",
+        "title": "Keep rendezvous support ready",
+        "refs": [
+          {
+            "get": "102:58:48",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Asks Collins to keep the orbiting base ready."
+      },
+      {
+        "id": "demand-31",
+        "title": "Mission timer troubleshooting",
+        "refs": [
+          {
+            "get": "103:08:07",
+            "speaker": "CDR"
+          },
+          {
+            "get": "103:10:45",
+            "speaker": "CDR"
+          },
+          {
+            "get": "103:11:12",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Reports a timer problem and the results of attempted fixes; one technical issue episode."
+      },
+      {
+        "id": "demand-32",
+        "title": "Confirm position acceptance",
+        "refs": [
+          {
+            "get": "103:49:19",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Asks ground whether to accept the position update."
+      },
+      {
+        "id": "demand-33",
+        "title": "Updated LM weight",
+        "refs": [
+          {
+            "get": "104:18:38",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Requests the updated LM weight."
+      },
+      {
+        "id": "demand-34",
+        "title": "Request block data",
+        "refs": [
+          {
+            "get": "104:22:27",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Invites ground to give the next block of data."
+      },
+      {
+        "id": "demand-35",
+        "title": "Battery voltage concern",
+        "refs": [
+          {
+            "get": "104:25:47",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Reports unequal voltages and asks whether this is expected."
+      },
+      {
+        "id": "demand-36",
+        "title": "Begin powerdown",
+        "refs": [
+          {
+            "get": "104:34:55",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "States readiness to power down and terminate the simulated countdown."
+      },
+      {
+        "id": "demand-37",
+        "title": "Update EVA preparation timing",
+        "refs": [
+          {
+            "get": "104:40:46",
+            "speaker": "CDR"
+          },
+          {
+            "get": "104:40:52",
+            "speaker": "CDR"
+          },
+          {
+            "get": "105:47:43",
+            "speaker": "CDR"
+          },
+          {
+            "get": "106:11:14",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Clarifies hatch/preparation timing and later reports the start of EVA preparation. Grouped as one task-plan update."
+      }
+    ],
+    "effort": [
+      {
+        "id": "repair-angles",
+        "title": "Angle numbers repeated",
+        "refs": [
+          {
+            "get": "100:31:05",
+            "speaker": "CDR"
+          },
+          {
+            "get": "100:31:13",
+            "speaker": "CC"
+          },
+          {
+            "get": "100:31:20",
+            "speaker": "CDR"
+          },
+          {
+            "get": "100:31:23",
+            "speaker": "CC"
+          }
+        ],
+        "interpretation": "The requested numbers are repeated and read back correctly. This demonstrates a repaired exchange, not cognitive impairment.",
+        "outcome": "Readback confirmed"
+      },
+      {
+        "id": "repair-checklist",
+        "title": "Checklist restated",
+        "refs": [
+          {
+            "get": "102:29:07",
+            "speaker": "CDR"
+          },
+          {
+            "get": "102:29:08",
+            "speaker": "LMP"
+          }
+        ],
+        "interpretation": "What? is followed by a checklist restatement. No explicit Armstrong acknowledgment is captured here.",
+        "outcome": "Restatement captured"
+      },
+      {
+        "id": "repair-timer-repeat",
+        "title": "Timer reading repeated",
+        "refs": [
+          {
+            "get": "103:08:07",
+            "speaker": "CDR"
+          },
+          {
+            "get": "103:08:17",
+            "speaker": "CC"
+          },
+          {
+            "get": "103:08:24",
+            "speaker": "CDR"
+          },
+          {
+            "get": "103:08:35",
+            "speaker": "CC"
+          }
+        ],
+        "interpretation": "Ground asks for the timer value again; Armstrong repeats it and ground confirms copying it. This is communication repair, not evidence of confusion.",
+        "outcome": "Repeat received"
+      },
+      {
+        "id": "repair-t4",
+        "title": "T4 readback corrected",
+        "refs": [
+          {
+            "get": "104:22:30",
+            "speaker": "CC"
+          },
+          {
+            "get": "104:23:05",
+            "speaker": "LMP"
+          },
+          {
+            "get": "104:23:26",
+            "speaker": "CC"
+          },
+          {
+            "get": "104:23:33",
+            "speaker": "CDR"
+          },
+          {
+            "get": "104:23:37",
+            "speaker": "CC"
+          },
+          {
+            "get": "104:23:49",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "The crew read back 07; ground corrected it to 02 and Armstrong read back the correction. The initial error is not attributed to Armstrong alone.",
+        "outcome": "Correction read back"
+      }
+    ],
+    "coordination": [
+      {
+        "id": "coord-relay",
+        "title": "Relay needed repeated numbers",
+        "refs": [
+          {
+            "get": "100:30:53",
+            "speaker": "CC"
+          },
+          {
+            "get": "100:31:05",
+            "speaker": "CDR"
+          },
+          {
+            "get": "100:31:13",
+            "speaker": "CC"
+          },
+          {
+            "get": "100:31:20",
+            "speaker": "CDR"
+          },
+          {
+            "get": "100:31:23",
+            "speaker": "CC"
+          }
+        ],
+        "interpretation": "Ground had lost data with Columbia and used Armstrong as a relay. This is an operational coordination snag, not interpersonal conflict."
+      },
+      {
+        "id": "coord-t4",
+        "title": "A shared value needed correction",
+        "refs": [
+          {
+            "get": "104:23:05",
+            "speaker": "LMP"
+          },
+          {
+            "get": "104:23:26",
+            "speaker": "CC"
+          },
+          {
+            "get": "104:23:33",
+            "speaker": "CDR"
+          },
+          {
+            "get": "104:23:37",
+            "speaker": "CC"
+          },
+          {
+            "get": "104:23:49",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "A wrong shared time value was corrected through readback. The excerpt supports repair work, not a strained relationship."
+      }
+    ],
+    "pressure": [
+      {
+        "id": "pressure-pause",
+        "title": "Busy with immediate tasks",
+        "refs": [
+          {
+            "get": "102:46:23",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "An explicit request for space to perform immediate tasks. It does not by itself mean emotional distress."
+      },
+      {
+        "id": "pressure-attention",
+        "title": "Alarms competed with visual attention",
+        "refs": [
+          {
+            "get": "103:02:03",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Armstrong explicitly says attention to alarms displaced attention to picking out the landing spot. This is the clearest first-person evidence of competing task demands."
+      }
+    ],
+    "support": [
+      {
+        "id": "support-activation",
+        "title": "Activation issue received a ground suggestion",
+        "refs": [
+          {
+            "get": "083:03:49",
+            "speaker": "CDR"
+          },
+          {
+            "get": "083:04:13",
+            "speaker": "CC"
+          },
+          {
+            "get": "083:04:22",
+            "speaker": "CDR"
+          },
+          {
+            "get": "083:04:28",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Ground offered a procedure; Armstrong reported finding a misplaced breaker. This does not establish that the ground suggestion solved it.",
+        "responseCaptured": true
+      },
+      {
+        "id": "support-alarm",
+        "title": "Ground interpreted the alarm",
+        "refs": [
+          {
+            "get": "102:38:48",
+            "speaker": "CDR"
+          },
+          {
+            "get": "102:38:53",
+            "speaker": "CC"
+          },
+          {
+            "get": "102:38:59",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "The help request received a GO response, then an acknowledgment. A response is not proof that the alarm was fixed.",
+        "responseCaptured": true
+      },
+      {
+        "id": "support-timer",
+        "title": "Ground engaged with timer troubleshooting",
+        "refs": [
+          {
+            "get": "103:08:07",
+            "speaker": "CDR"
+          },
+          {
+            "get": "103:10:26",
+            "speaker": "CC"
+          },
+          {
+            "get": "103:10:45",
+            "speaker": "CDR"
+          },
+          {
+            "get": "103:11:12",
+            "speaker": "CDR"
+          },
+          {
+            "get": "103:11:37",
+            "speaker": "CC"
+          },
+          {
+            "get": "103:11:47",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Advice was offered and ground said it would research the issue. Timer resolution is not established.",
+        "responseCaptured": true
+      },
+      {
+        "id": "support-battery",
+        "title": "Ground answered the voltage concern",
+        "refs": [
+          {
+            "get": "104:25:47",
+            "speaker": "CDR"
+          },
+          {
+            "get": "104:26:03",
+            "speaker": "CC"
+          },
+          {
+            "get": "104:26:09",
+            "speaker": "CC"
+          },
+          {
+            "get": "104:26:19",
+            "speaker": "CDR"
+          }
+        ],
+        "interpretation": "Ground answered the concern and Armstrong acknowledged it. This captures support, not an independent medical or system-health assessment.",
+        "responseCaptured": true
+      }
+    ]
+  },
+  "excerpts": [
+    {
+      "id": "attention",
+      "get": "103:02:03",
+      "title": "Attention pulled in two directions",
+      "quote": "We were a little busy worrying about program alarms and things like that in the part of the descent where we would normally be picking out our landing spot;",
+      "meaning": "You described alarms taking attention away from another important task. That is a clear reason to take the day’s demand seriously.",
+      "boundary": "Evidence of competing attention, not proof of lasting cognitive overload.",
+      "metricIds": [
+        "demand",
+        "pressure"
+      ]
+    },
+    {
+      "id": "space",
+      "get": "102:46:23",
+      "title": "You made room to focus",
+      "quote": "Okay. We're going to be busy for a minute.",
+      "meaning": "You signaled that immediate work needed your attention. Protecting focus is a useful response to demand.",
+      "boundary": "This is an operational boundary, not a sign of distress by itself.",
+      "metricIds": [
+        "pressure"
+      ]
+    },
+    {
+      "id": "help",
+      "get": "102:38:48",
+      "title": "You used the support around you",
+      "quote": "Give us a reading on the 1202 PROGRAM ALARM.",
+      "meaning": "You asked ground for a clear decision. A reply and your acknowledgment are captured in the exchange.",
+      "boundary": "This shows help-seeking and a response, not that every issue was resolved.",
+      "metricIds": [
+        "support",
+        "effort"
+      ]
+    },
+    {
+      "id": "positive",
+      "get": "103:22:30",
+      "title": "There was a positive moment, too",
+      "quote": "It's big and bright and beautiful.",
+      "meaning": "Even amid the procedures, you noticed a positive view of Earth. The day contained more than demand.",
+      "boundary": "A positive description is not a measure of your overall mood.",
+      "metricIds": []
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "pause",
+      "title": "Protect your next agreed pause",
+      "text": "When the mission plan allows, take a short quiet pause before adding another noncritical task. Let ground know you need that space.",
+      "why": "You described competing demands and asked for a minute to focus.",
+      "metricIds": [
+        "pressure",
+        "demand"
+      ],
+      "icon": "moon"
+    },
+    {
+      "id": "debrief",
+      "title": "Share a short debrief with Buzz",
+      "text": "Talk through what took the most effort and what helped. Keep it practical: one demanding moment, one useful support, one thing to simplify.",
+      "why": "A few exchanges needed restatement or correction; support also worked.",
+      "metricIds": [
+        "effort",
+        "coordination",
+        "support"
+      ],
+      "icon": "people"
+    },
+    {
+      "id": "simplify",
+      "title": "Keep the next optional block simple",
+      "text": "Ask to group nonurgent questions or defer an optional task. Keep required checks and mission decisions with the crew and ground team.",
+      "why": "Technical decisions and troubleshooting continued after landing.",
+      "metricIds": [
+        "demand",
+        "pressure"
+      ],
+      "icon": "calendar"
+    },
+    {
+      "id": "rest",
+      "title": "Protect rest after operations",
+      "text": "When operations and the agreed plan permit, preserve your rest opportunity. Use your own check-in to say whether you still feel switched on or depleted.",
+      "why": "A demanding task sequence is a reason to plan recovery. This source contains no measured sleep data.",
+      "metricIds": [
+        "demand"
+      ],
+      "icon": "leaf"
+    }
+  ],
+  "baseline": {
+    "kind": "simulated",
+    "label": "Demo personal baseline",
+    "description": "Illustrative usual ranges for the same reviewed episode definitions. These are not extracted from Neil Armstrong’s historical days. Today’s transcript entries and reviewed episode counts remain real-source based.",
+    "metrics": {
+      "demand": {
+        "min": 18,
+        "max": 24,
+        "unit": "episodes"
+      },
+      "effort": {
+        "min": 1,
+        "max": 2,
+        "unit": "exchanges"
+      },
+      "coordination": {
+        "min": 0,
+        "max": 1,
+        "unit": "snags"
+      },
+      "pressure": {
+        "min": 0,
+        "max": 1,
+        "unit": "statements"
+      },
+      "support": {
+        "min": 75,
+        "max": 100,
+        "unit": "% responses"
+      }
+    }
+  }
+}

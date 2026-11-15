@@ -1,0 +1,58 @@
+:root {
+  --c-bg: #0b1220;
+  --c-surface: #121b2e;
+  --c-elevated: #1a2540;
+  --c-line: #26324d;
+  --c-text: #f4f7ff;
+  --c-muted: #a9b6d3;
+  --c-ok: #3ddc97;
+  --c-info: #8fa3c7;
+  --c-watch: #ffd166;
+  --c-warning: #ff9f43;
+  --c-critical: #ff5d5d;
+  --c-accent: #5ba4ff;
+  --rgb-bg: 11 18 32;
+  --rgb-surface: 18 27 46;
+  --rgb-elevated: 26 37 64;
+  --rgb-line: 38 50 77;
+  --rgb-text: 244 247 255;
+  --rgb-muted: 169 182 211;
+  --rgb-ok: 61 220 151;
+  --rgb-info: 143 163 199;
+  --rgb-watch: 255 209 102;
+  --rgb-warning: 255 159 67;
+  --rgb-critical: 255 93 93;
+  --rgb-accent: 91 164 255;
+  --radius: 24px;
+  --motion: 200ms ease;
+  --rail-w: 112px;
+  --top-h: 76px;
+  --font: -apple-system, BlinkMacSystemFont, "SF Pro Text", Inter, "Segoe UI", Roboto, sans-serif;
+  --text-base: 16px;
+  --text-lg: 18px;
+  --text-xl: 20px;
+  --text-2xl: 24px;
+  --text-3xl: 28px;
+  --text-4xl: 34px;
+  --text-5xl: 48px;
+  --text-hero: 80px;
+  --radius-button: 18px;
+  --radius-tile: 16px;
+  --radius-pill: 999px;
+  --radius-sheet: 28px;
+  --radius-focus: 12px;
+  --touch: 56px;
+  --c-on-accent: #06101f;
+  --c-on-critical: #1b0606;
+  --overlay: rgb(0 0 0 / 0.55);
+  --shadow: 0 24px 80px rgb(0 0 0 / 0.3);
+  --cyan: var(--c-accent);
+  --green: var(--c-ok);
+  --amber: var(--c-watch);
+  --purple: var(--c-info);
+  --muted: var(--c-muted);
+  color-scheme: dark;
+}
+@media (prefers-reduced-motion: reduce) {
+  :root { --motion: 0ms linear; }
+}

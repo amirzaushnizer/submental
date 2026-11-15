@@ -1,0 +1,3191 @@
+[
+  {
+    "stage": "extract",
+    "primary_id": "a11-03354",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:00:46.613802Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"Houston, 11.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 851213083,
+      "load_duration": 816042,
+      "prompt_eval_count": 261,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 105593000,
+      "eval_count": 72,
+      "eval_duration": 742325000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03356",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:00:47.737965Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Okay\",\n  \"request_or_decision\": \"We are on page activation 12 and 13, step 4, and verify descent talkbacks gray, and they're barberpole.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1122809208,
+      "load_duration": 958541,
+      "prompt_eval_count": 270,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 109400000,
+      "eval_count": 98,
+      "eval_duration": 1010136000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03359",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:00:48.739775Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Stand by\",\n  \"request_or_decision\": \"We got it\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"We just had one circuit breaker out of position\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 999753667,
+      "load_duration": 1078250,
+      "prompt_eval_count": 248,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 100441000,
+      "eval_count": 84,
+      "eval_duration": 895240000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03361",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:00:49.605263Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"gray\",\n  \"request_or_decision\": \"We have them gray now.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 863441417,
+      "load_duration": 1084083,
+      "prompt_eval_count": 213,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 92292000,
+      "eval_count": 73,
+      "eval_duration": 767445000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03365",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:00:50.33721Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"transmitting on B?\", \"request_or_decision\": \"transmitting on B?\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 730091708,
+      "load_duration": 1217250,
+      "prompt_eval_count": 243,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 100091000,
+      "eval_count": 60,
+      "eval_duration": 626323000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03456",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:00:51.299402Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"Houston, 11. The OPS read 5750, both bottles.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 960040042,
+      "load_duration": 1120750,
+      "prompt_eval_count": 227,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 93910000,
+      "eval_count": 83,
+      "eval_duration": 862639000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03544",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:00:52.29483Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"We'll see you on the other side\",\n  \"request_or_decision\": \"We'll see you on the other side, Houston.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 994108125,
+      "load_duration": 975167,
+      "prompt_eval_count": 257,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 92424000,
+      "eval_count": 87,
+      "eval_duration": 898702000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03612",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:00:53.338559Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"Thank you very much. We appreciate the news.\",\n  \"positive_words\": \"We appreciate the news.\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1041854166,
+      "load_duration": 974666,
+      "prompt_eval_count": 548,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 173009000,
+      "eval_count": 81,
+      "eval_duration": 864537000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03616",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:00:54.323004Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Thank you\",\n  \"request_or_decision\": \"Apollo 11. 96 20.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"Thank you\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 982198791,
+      "load_duration": 939000,
+      "prompt_eval_count": 259,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 95032000,
+      "eval_count": 84,
+      "eval_duration": 883369000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03704",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:00:55.230112Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"stand by for the switchover time\", \"request_or_decision\": \"We're on pump 1\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"This is Eagle.\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 905727208,
+      "load_duration": 982083,
+      "prompt_eval_count": 270,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 104342000,
+      "eval_count": 71,
+      "eval_duration": 798098000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03706",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:00:56.19881Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"switch time\",\n  \"request_or_decision\": \"The switch time to LM power is 95 54 00.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 966612125,
+      "load_duration": 785625,
+      "prompt_eval_count": 237,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 91601000,
+      "eval_count": 85,
+      "eval_duration": 872327000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03708",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:00:57.075748Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Yes. He is.\",\n  \"request_or_decision\": \"Yes. He is.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 875086166,
+      "load_duration": 1081375,
+      "prompt_eval_count": 238,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 92520000,
+      "eval_count": 76,
+      "eval_duration": 779139000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03710",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:00:57.831114Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"How do you read?\", \"request_or_decision\": \"How do you read?\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 753598125,
+      "load_duration": 932833,
+      "prompt_eval_count": 237,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 93527000,
+      "eval_count": 61,
+      "eval_duration": 657088000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03712",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:00:58.70274Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"loud and clear\",\n  \"request_or_decision\": \"Read you loud and clear\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 870193750,
+      "load_duration": 1007042,
+      "prompt_eval_count": 235,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 92456000,
+      "eval_count": 75,
+      "eval_duration": 774489000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03713",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:00:59.579705Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"please\",\n  \"request_or_decision\": \"Would you configure for Simplex A\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 875021084,
+      "load_duration": 951125,
+      "prompt_eval_count": 235,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 91039000,
+      "eval_count": 76,
+      "eval_duration": 781037000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03715",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:00.468409Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"How do you read on VHF A?\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 886723583,
+      "load_duration": 1272291,
+      "prompt_eval_count": 231,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 102469000,
+      "eval_count": 74,
+      "eval_duration": 780595000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03717",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:01.338437Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Read you loud and clear\",\n  \"request_or_decision\": \"Roger\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 866394667,
+      "load_duration": 1021667,
+      "prompt_eval_count": 231,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 97374000,
+      "eval_count": 73,
+      "eval_duration": 765767000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03718",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:02.210454Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"ready\",\n  \"request_or_decision\": \"Load the CSM time\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 871101333,
+      "load_duration": 1121667,
+      "prompt_eval_count": 233,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 104149000,
+      "eval_count": 72,
+      "eval_duration": 763387000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03721",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:03.254733Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"Let's get your clock first and then we'll get T EPHEM\", \"request_or_decision\": \"Let's get your clock first and then we'll get T EPHEM\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1042826208,
+      "load_duration": 1037375,
+      "prompt_eval_count": 232,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 100438000,
+      "eval_count": 86,
+      "eval_duration": 939054000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03723",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:04.133666Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"Give me a time for load.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 876816917,
+      "load_duration": 1093334,
+      "prompt_eval_count": 252,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 100976000,
+      "eval_count": 73,
+      "eval_duration": 772369000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03725",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:05.080847Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Okay\",\n  \"request_or_decision\": \"I have 97 03 30 set in.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 945883708,
+      "load_duration": 878083,
+      "prompt_eval_count": 258,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 103713000,
+      "eval_count": 81,
+      "eval_duration": 839017000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03733",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:05.945095Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"Okay\", \"request_or_decision\": \"Let's do a 0665 on my Mark.\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 860398667,
+      "load_duration": 1108917,
+      "prompt_eval_count": 227,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 94908000,
+      "eval_count": 67,
+      "eval_duration": 761679000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03734",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:06.76846Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"Did you get that, Mike?\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 822197084,
+      "load_duration": 905084,
+      "prompt_eval_count": 235,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 92830000,
+      "eval_count": 72,
+      "eval_duration": 726419000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03736",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:07.656938Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Okay\",\n  \"request_or_decision\": \"3, 2, 1\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 887641459,
+      "load_duration": 1139959,
+      "prompt_eval_count": 229,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 98720000,
+      "eval_count": 76,
+      "eval_duration": 785573000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03739",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:08.684049Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Okay\",\n  \"request_or_decision\": \"I'm within three hundredths.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"That's within our ability to keep together, I think.\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1025207042,
+      "load_duration": 1328125,
+      "prompt_eval_count": 260,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 104570000,
+      "eval_count": 88,
+      "eval_duration": 916738000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03741",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:09.785736Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Okay\",\n  \"request_or_decision\": \"Now you want to give me T EPHEM VERB 05, NOUN 01 ENTER?\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1099584791,
+      "load_duration": 1176625,
+      "prompt_eval_count": 254,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 103574000,
+      "eval_count": 92,
+      "eval_duration": 992309000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03747",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:10.769588Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"Understand\", \"request_or_decision\": \"R1, 5 zeros; R2, 20017; R3, 20616.\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 981636917,
+      "load_duration": 1136125,
+      "prompt_eval_count": 275,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 110353000,
+      "eval_count": 80,
+      "eval_duration": 867768000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03750",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:11.872268Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"ready\",\n  \"request_or_decision\": \"start on a docked IMU coarse align\",\n  \"repeat_or_corrected_message\": \"go MIN deadband ATT hold\",\n  \"coordination_problem\": \"MIN deadband ATT hold\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1101501250,
+      "load_duration": 932500,
+      "prompt_eval_count": 255,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 101952000,
+      "eval_count": 91,
+      "eval_duration": 996430000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03753",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:12.644842Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"Okay\", \"request_or_decision\": \"Now I need your NOUN 20\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 769621167,
+      "load_duration": 972750,
+      "prompt_eval_count": 242,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 94689000,
+      "eval_count": 62,
+      "eval_duration": 671851000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03758",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:13.538175Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"Copy.\", \"request_or_decision\": \"11202, 20741, 00211.\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 891784375,
+      "load_duration": 867250,
+      "prompt_eval_count": 267,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 104349000,
+      "eval_count": 73,
+      "eval_duration": 784632000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03762",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:14.710314Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"hold's\",\n  \"request_or_decision\": \"copy a NOUN 20 again, 06 NOUN 20\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1168967041,
+      "load_duration": 966416,
+      "prompt_eval_count": 245,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 94044000,
+      "eval_count": 87,
+      "eval_duration": 1071862000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03764",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:16.242235Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"copy\", \"request_or_decision\": \"I'd like to copy a NOUN 20 again, 06 NOUN 20. Be on my Mark.\", \"repeat_or_corrected_message\": \"copy a NOUN 20 again, 06 NOUN 20\", \"coordination_problem\": \"Be on my Mark.\", \"asking_for_help\": \"I'd like to copy a NOUN 20 again, 06 NOUN 20.\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1529217042,
+      "load_duration": 987917,
+      "prompt_eval_count": 252,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 93751000,
+      "eval_count": 129,
+      "eval_duration": 1432235000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03766",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:17.288073Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"stand by\", \"request_or_decision\": \"Take it again.\", \"repeat_or_corrected_message\": \"Take it again.\", \"coordination_problem\": \"3, 2, 1; stand by.\", \"asking_for_help\": \"Take it again.\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1043669667,
+      "load_duration": 958875,
+      "prompt_eval_count": 228,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 87079000,
+      "eval_count": 80,
+      "eval_duration": 953258000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03768",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:18.128144Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"3, 2, 1.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 838697708,
+      "load_duration": 955583,
+      "prompt_eval_count": 238,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 94506000,
+      "eval_count": 73,
+      "eval_duration": 741162000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03771",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:19.2031Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"get\",\n  \"request_or_decision\": \"You get 11154, 20792, 00230.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1073108750,
+      "load_duration": 1134083,
+      "prompt_eval_count": 262,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 111194000,
+      "eval_count": 91,
+      "eval_duration": 958412000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03774",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:20.061449Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"Okay, Houston.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 856329542,
+      "load_duration": 1025625,
+      "prompt_eval_count": 290,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 113123000,
+      "eval_count": 70,
+      "eval_duration": 739876000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03776",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:20.868794Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"correct\", \"request_or_decision\": \"That's correct for Eagle and command module.\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 806099125,
+      "load_duration": 1042084,
+      "prompt_eval_count": 295,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 117233000,
+      "eval_count": 63,
+      "eval_duration": 685482000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03778",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:21.750564Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"Did you get the time?\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 879369292,
+      "load_duration": 1028667,
+      "prompt_eval_count": 250,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 100729000,
+      "eval_count": 72,
+      "eval_duration": 775157000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03782",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:22.645823Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"ready to copy\",\n  \"request_or_decision\": \"We're ready to copy\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 893186667,
+      "load_duration": 1008917,
+      "prompt_eval_count": 289,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 104879000,
+      "eval_count": 76,
+      "eval_duration": 784990000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03784",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:23.746442Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Understand\",\n  \"request_or_decision\": \"X minus 00060, Y plus 00620, Z plus 01080\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1098032167,
+      "load_duration": 1140250,
+      "prompt_eval_count": 293,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 119394000,
+      "eval_count": 94,
+      "eval_duration": 974859000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03786",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:24.699791Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"do a VERB 42 at this time?\", \"request_or_decision\": \"Do you want us to go ahead and do a VERB 42 at this time?\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 951434000,
+      "load_duration": 966542,
+      "prompt_eval_count": 256,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 93616000,
+      "eval_count": 80,
+      "eval_duration": 853491000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03797",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:25.729929Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"torquing angles\",\n  \"request_or_decision\": \"Do you copy those angles, Houston - torquing angles?\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1028146125,
+      "load_duration": 1109833,
+      "prompt_eval_count": 252,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 103663000,
+      "eval_count": 85,
+      "eval_duration": 920939000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03803",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:26.565778Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Columbia, Eagle\",\n  \"request_or_decision\": \"Go ahead\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 833734833,
+      "load_duration": 1086416,
+      "prompt_eval_count": 237,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 103061000,
+      "eval_count": 72,
+      "eval_duration": 727181000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03805",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:27.425373Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Roger\",\n  \"request_or_decision\": \"Stand by\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 858176667,
+      "load_duration": 921375,
+      "prompt_eval_count": 262,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 102114000,
+      "eval_count": 71,
+      "eval_duration": 752698000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03810",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:28.251397Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"the capture latches look good\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 824894208,
+      "load_duration": 904500,
+      "prompt_eval_count": 247,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 91817000,
+      "eval_count": 72,
+      "eval_duration": 730063000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03866",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:29.249663Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Are you going to use\",\n  \"request_or_decision\": \"use the high gain before you can look at our GDA position indicator?\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 996525041,
+      "load_duration": 925833,
+      "prompt_eval_count": 237,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 93891000,
+      "eval_count": 87,
+      "eval_duration": 899585000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03872",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:30.169727Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Understand\",\n  \"request_or_decision\": \"Roger\",\n  \"repeat_or_corrected_message\": \"Repeat, do not do the gimbal trim.\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 918679500,
+      "load_duration": 1258417,
+      "prompt_eval_count": 279,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 109773000,
+      "eval_count": 78,
+      "eval_duration": 805354000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03916",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:31.063566Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"ready\",\n  \"request_or_decision\": \"start the RCS checkout now\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 892401833,
+      "load_duration": 1038708,
+      "prompt_eval_count": 233,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 92045000,
+      "eval_count": 75,
+      "eval_duration": 797009000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03928",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:31.90388Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"GO\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 839018541,
+      "load_duration": 1002958,
+      "prompt_eval_count": 340,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 124889000,
+      "eval_count": 68,
+      "eval_duration": 710590000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03942",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:32.740486Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"In work\",\n  \"request_or_decision\": \"Roger\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 834173584,
+      "load_duration": 900125,
+      "prompt_eval_count": 273,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 106374000,
+      "eval_count": 70,
+      "eval_duration": 724249000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03943",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:33.780246Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"let's flick it in 0620 when you are ready\", \"request_or_decision\": \"Columbia, let's flick it in 0620 when you are ready.\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1037815791,
+      "load_duration": 1172041,
+      "prompt_eval_count": 237,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 104420000,
+      "eval_count": 85,
+      "eval_duration": 929488000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03945",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:34.681748Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Okay\",\n  \"request_or_decision\": \"3, 2, 1\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 900253417,
+      "load_duration": 990584,
+      "prompt_eval_count": 244,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 94664000,
+      "eval_count": 76,
+      "eval_duration": 802414000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03948",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:35.730711Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"Copy. 358.64 020.73 and 359.54.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1046929750,
+      "load_duration": 1132916,
+      "prompt_eval_count": 274,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 112448000,
+      "eval_count": 90,
+      "eval_duration": 930822000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-03955",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:36.653742Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"correct\",\n  \"request_or_decision\": \"GET was 99 hours and 4 minutes even\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 920892542,
+      "load_duration": 1148917,
+      "prompt_eval_count": 258,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 103525000,
+      "eval_count": 79,
+      "eval_duration": 813030000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04006",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:37.409724Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"maneuvering\", \"request_or_decision\": \"And you're maneuvering. Right?\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 754251375,
+      "load_duration": 1217916,
+      "prompt_eval_count": 262,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 100536000,
+      "eval_count": 62,
+      "eval_duration": 650161000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04020",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:38.257391Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Systems looking good\",\n  \"request_or_decision\": \"Systems looking good\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 846605459,
+      "load_duration": 907625,
+      "prompt_eval_count": 234,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 93836000,
+      "eval_count": 74,
+      "eval_duration": 749776000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04023",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:39.103769Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"undocked\",\n  \"request_or_decision\": \"Eagle is undocked\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 844645834,
+      "load_duration": 975292,
+      "prompt_eval_count": 230,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 94076000,
+      "eval_count": 73,
+      "eval_duration": 747437000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04025",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:39.857823Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 752985500,
+      "load_duration": 913709,
+      "prompt_eval_count": 214,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 90595000,
+      "eval_count": 65,
+      "eval_duration": 659331000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04031",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:40.62405Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"check\", \"request_or_decision\": \"You check our tracking light, Mike?\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 765071042,
+      "load_duration": 1156917,
+      "prompt_eval_count": 270,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 111381000,
+      "eval_count": 61,
+      "eval_duration": 650091000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04032",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:41.568369Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"ready to start my yaw maneuver\",\n  \"request_or_decision\": \"Back off? Okay.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 942432750,
+      "load_duration": 1138750,
+      "prompt_eval_count": 255,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 102142000,
+      "eval_count": 78,
+      "eval_duration": 836575000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04033",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:42.536136Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"do this\", \"request_or_decision\": \"Does it look like you are going to be able to do this without burning thrusters, Mike?\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 965796500,
+      "load_duration": 1057291,
+      "prompt_eval_count": 399,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 139538000,
+      "eval_count": 74,
+      "eval_duration": 822388000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04046",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:43.353175Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"Roger.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 814885709,
+      "load_duration": 1109125,
+      "prompt_eval_count": 277,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 111800000,
+      "eval_count": 67,
+      "eval_duration": 697989000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04054",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:44.344901Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"Say again the numbers.\", \"request_or_decision\": \"Say again the numbers.\", \"repeat_or_corrected_message\": \"Say again the numbers.\", \"coordination_problem\": \"Say again the numbers.\", \"asking_for_help\": \"Say again the numbers.\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 989424125,
+      "load_duration": 1605083,
+      "prompt_eval_count": 274,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 113046000,
+      "eval_count": 78,
+      "eval_duration": 872145000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04056",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:45.284247Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Okay\",\n  \"request_or_decision\": \"Yaw 0, pitch minus 20 on the high gain.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 938010333,
+      "load_duration": 898416,
+      "prompt_eval_count": 248,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 95691000,
+      "eval_count": 81,
+      "eval_duration": 839344000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04058",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:45.996033Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"To Columbia?\", \"request_or_decision\": \"To Columbia?\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 708882125,
+      "load_duration": 1052958,
+      "prompt_eval_count": 229,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 106100000,
+      "eval_count": 57,
+      "eval_duration": 599214000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04059",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:46.88176Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"do that\",\n  \"request_or_decision\": \"He says he'll do that\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 883445833,
+      "load_duration": 1109417,
+      "prompt_eval_count": 217,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 94441000,
+      "eval_count": 76,
+      "eval_duration": 785394000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04072",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:47.763677Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"what's going to be your pitch angle at SEP?\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 879591833,
+      "load_duration": 1125208,
+      "prompt_eval_count": 226,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 95048000,
+      "eval_count": 77,
+      "eval_duration": 780929000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04076",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:48.589432Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"good\",\n  \"request_or_decision\": \"No\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"good\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 824639125,
+      "load_duration": 894541,
+      "prompt_eval_count": 251,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 93677000,
+      "eval_count": 71,
+      "eval_duration": 727814000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04078",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:49.414095Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"upside-down\",\n  \"request_or_decision\": \"\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 823391291,
+      "load_duration": 920625,
+      "prompt_eval_count": 245,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 94003000,
+      "eval_count": 71,
+      "eval_duration": 726287000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04080",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:50.382392Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"See you later.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 966985208,
+      "load_duration": 884125,
+      "prompt_eval_count": 263,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 108325000,
+      "eval_count": 69,
+      "eval_duration": 855631000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04086",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:51.241455Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"right down\", \"request_or_decision\": \"You're going right down U.S. 1, Mike.\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 857362791,
+      "load_duration": 953625,
+      "prompt_eval_count": 247,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 93806000,
+      "eval_count": 69,
+      "eval_duration": 760659000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04166",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:52.553823Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"Torquing angles\", \"request_or_decision\": \"Houston, Eagle. You can - Torquing angles NOUN 93 on four zeros and a 3 are minus 00292, plus 00289, minus 00094.\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1311691625,
+      "load_duration": 931750,
+      "prompt_eval_count": 267,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 109399000,
+      "eval_count": 104,
+      "eval_duration": 1199022000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04168",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:53.317239Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"Roger. Copy.\", \"request_or_decision\": \"Roger. Copy.\", \"repeat_or_corrected_message\": \"Roger. Copy.\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 761693667,
+      "load_duration": 910542,
+      "prompt_eval_count": 241,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 92219000,
+      "eval_count": 63,
+      "eval_duration": 666291000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04214",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:54.2318Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Horizon checklist right on time\",\n  \"request_or_decision\": \"Horizon checklist right on time\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 913099583,
+      "load_duration": 865167,
+      "prompt_eval_count": 226,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 93504000,
+      "eval_count": 78,
+      "eval_duration": 816784000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04220",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:55.210688Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"perilune\",\n  \"request_or_decision\": \"Our radar checks indicate 50,000 foot perilune.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 977657917,
+      "load_duration": 1073167,
+      "prompt_eval_count": 272,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 106533000,
+      "eval_count": 84,
+      "eval_duration": 867080000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04236",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:56.39318Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"What?\", \"request_or_decision\": \"What?\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1180922541,
+      "load_duration": 1066500,
+      "prompt_eval_count": 271,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 109648000,
+      "eval_count": 55,
+      "eval_duration": 1065284000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04275",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:58.096474Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"Our\", \"request_or_decision\": \"position checks downrange show us to be a little long.\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1698278125,
+      "load_duration": 3491583,
+      "prompt_eval_count": 231,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 308691000,
+      "eval_count": 65,
+      "eval_duration": 1378940000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04278",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:01:59.743746Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Stand by\",\n  \"request_or_decision\": \"ought to be\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1642020458,
+      "load_duration": 2827792,
+      "prompt_eval_count": 224,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 132520000,
+      "eval_count": 74,
+      "eval_duration": 1500158000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04289",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:01.499504Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"DELTA-H\", \"request_or_decision\": \"Houston, you're looking at our DELTA-H?\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1753008542,
+      "load_duration": 6158292,
+      "prompt_eval_count": 226,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 142559000,
+      "eval_count": 68,
+      "eval_duration": 1594557000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04291",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:03.318769Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"PROGRAM ALARM\",\n  \"request_or_decision\": \"PROGRAM ALARM\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1814857875,
+      "load_duration": 31544042,
+      "prompt_eval_count": 224,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 122350000,
+      "eval_count": 75,
+      "eval_duration": 1651458000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04293",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:05.11029Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"1202\", \"request_or_decision\": \"It's a 1202.\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1788620334,
+      "load_duration": 4423625,
+      "prompt_eval_count": 236,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 166391000,
+      "eval_count": 66,
+      "eval_duration": 1608381000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04295",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:06.967112Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"PROGRAM ALARM\", \"request_or_decision\": \"Give us a reading on the 1202 PROGRAM ALARM.\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1854101542,
+      "load_duration": 2178542,
+      "prompt_eval_count": 234,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 144548000,
+      "eval_count": 70,
+      "eval_duration": 1698419000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04297",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:08.835906Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Roger\",\n  \"request_or_decision\": \"P30\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1867484833,
+      "load_duration": 2922916,
+      "prompt_eval_count": 232,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 137497000,
+      "eval_count": 72,
+      "eval_duration": 1719389000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04301",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:10.658438Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Copy\",\n  \"request_or_decision\": \"Roger. Copy. 6 plus 25.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1817318416,
+      "load_duration": 3499125,
+      "prompt_eval_count": 242,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 166705000,
+      "eval_count": 78,
+      "eval_duration": 1637504000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04310",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:12.347477Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Throttle down\",\n  \"request_or_decision\": \"Throttle down on time!\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1685992625,
+      "load_duration": 5056959,
+      "prompt_eval_count": 228,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 161126000,
+      "eval_count": 73,
+      "eval_duration": 1512842000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04321",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:13.960043Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"Going to 2.\", \"request_or_decision\": \"Going to 2.\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1611037291,
+      "load_duration": 6098541,
+      "prompt_eval_count": 242,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 149994000,
+      "eval_count": 61,
+      "eval_duration": 1441475000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04331",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:15.780362Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"good\",\n  \"request_or_decision\": \"Manual attitude control is good.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"good\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1817852042,
+      "load_duration": 8191792,
+      "prompt_eval_count": 232,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 145285000,
+      "eval_count": 75,
+      "eval_duration": 1655269000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04337",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:17.735328Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"1201\",\n  \"request_or_decision\": \"1201\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1953527042,
+      "load_duration": 2077959,
+      "prompt_eval_count": 251,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 140783000,
+      "eval_count": 75,
+      "eval_duration": 1803568000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04356",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:19.31466Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1576934708,
+      "load_duration": 16822875,
+      "prompt_eval_count": 237,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 149697000,
+      "eval_count": 65,
+      "eval_duration": 1400260000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04377",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:20.841502Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"Forward drift?\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1523344333,
+      "load_duration": 2696416,
+      "prompt_eval_count": 207,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 131426999,
+      "eval_count": 69,
+      "eval_duration": 1382637000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04383",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:22.214967Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"Out of DETENT.\", \"request_or_decision\": \"Out of DETENT.\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1354846750,
+      "load_duration": 5903000,
+      "prompt_eval_count": 235,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 158711000,
+      "eval_count": 61,
+      "eval_duration": 1180816000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04387",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:23.860687Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"Houston, Tranquility Base here.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1644166334,
+      "load_duration": 1889250,
+      "prompt_eval_count": 249,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 172875000,
+      "eval_count": 72,
+      "eval_duration": 1462935000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04388",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:25.714751Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"LANDED\",\n  \"request_or_decision\": \"THE EAGLE HAS LANDED\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1851015125,
+      "load_duration": 24772917,
+      "prompt_eval_count": 245,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 148586000,
+      "eval_count": 75,
+      "eval_duration": 1662822000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04392",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:27.182145Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"busy\", \"request_or_decision\": \"We're going to be busy for a minute.\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1464829541,
+      "load_duration": 4314000,
+      "prompt_eval_count": 235,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 145027000,
+      "eval_count": 64,
+      "eval_duration": 1308596000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04400",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:28.971Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Understand\",\n  \"request_or_decision\": \"STAY for T1\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1786389666,
+      "load_duration": 2246791,
+      "prompt_eval_count": 234,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 179707000,
+      "eval_count": 73,
+      "eval_duration": 1596684000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04410",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:30.806066Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Yes\",\n  \"request_or_decision\": \"I heard the whole thing\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1832560334,
+      "load_duration": 22289334,
+      "prompt_eval_count": 235,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 146824000,
+      "eval_count": 73,
+      "eval_duration": 1649879000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04427",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:32.925597Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"STAY\",\n  \"request_or_decision\": \"STAY for T2\",\n  \"repeat_or_corrected_message\": \"STAY for T2\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"We thank you\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 2117222666,
+      "load_duration": 4237791,
+      "prompt_eval_count": 233,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 131905000,
+      "eval_count": 84,
+      "eval_duration": 1974546000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04430",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:36.278956Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"Hey, Houston, that may have seemed like a very long final phase.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"The AUTO targeting was taking us right into a football field size - football field sized crater, with a large number of big boulders and rocks for about ... one or two crater diameters around it, and it required a ... in P66 and flying manually over the rock field to find a reasonably good area.\",\"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 3348807417,
+      "load_duration": 3618625,
+      "prompt_eval_count": 428,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 262584000,
+      "eval_count": 140,
+      "eval_duration": 3069607000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04437",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:38.004656Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"two of them up here.\", \"request_or_decision\": \"Well, there are two of them up here.\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1722374416,
+      "load_duration": 6815000,
+      "prompt_eval_count": 252,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 129289999,
+      "eval_count": 68,
+      "eval_duration": 1572878000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04442",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:39.726818Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"That's confirmed by our local observation.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1720833291,
+      "load_duration": 2528750,
+      "prompt_eval_count": 237,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 148919000,
+      "eval_count": 74,
+      "eval_duration": 1565288000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04449",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:42.006347Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"keep that orbiting base ready\",\n  \"request_or_decision\": \"keep that orbiting base ready for us up there now\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"Thank you\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 2278188042,
+      "load_duration": 2213083,
+      "prompt_eval_count": 258,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 148994000,
+      "eval_count": 86,
+      "eval_duration": 2117301000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04454",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:43.703112Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"busy\",\n  \"request_or_decision\": \"Thank you, Houston.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"Thank you\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1693851334,
+      "load_duration": 6770917,
+      "prompt_eval_count": 352,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 186742000,
+      "eval_count": 76,
+      "eval_duration": 1485934000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04455",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:46.515921Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"We were a little busy worrying about program alarms and things like that in the part of the descent where we would normally be picking out our landing spot\",\n  \"request_or_decision\": \"Houston, the guys that said that we wouldn't be able to tell precisely where we are are the winners today\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 2811527000,
+      "load_duration": 1523417,
+      "prompt_eval_count": 351,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 212005000,
+      "eval_count": 119,
+      "eval_duration": 2591397000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04457",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:48.674288Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"You might be interested to know that I don't think we notice any difficulty at all in adapting to one sixth g.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 2155698542,
+      "load_duration": 2588625,
+      "prompt_eval_count": 389,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 236819000,
+      "eval_count": 90,
+      "eval_duration": 1904452000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04459",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:53.190093Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"rest\",\n  \"request_or_decision\": \"The area out the left hand window is a relatively level plain cratered with a fairly large number of craters of the 5 to 50 foot variety, and some ridges - small, 20, 30 feet high, I would guess, and literally thousands of little 1 and 2 foot craters around the area. We see some angular blocks out several hundred feet in front of us that are probably 2 feet in size and have angular edges. There is a hill in view, just about on the ground track ahead of us. Difficult to estimate, but might be a half a mile or a mile.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 4514110750,
+      "load_duration": 3732917,
+      "prompt_eval_count": 353,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 213219000,
+      "eval_count": 193,
+      "eval_duration": 4281917999
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04462",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:55.217754Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"extremely rough, cratered, and large numbers of rocks\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 2025636000,
+      "load_duration": 9550375,
+      "prompt_eval_count": 270,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 170889000,
+      "eval_count": 78,
+      "eval_duration": 1837444000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04464",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:56.587967Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"rough\",\n  \"request_or_decision\": \"Over the targeted landing area, it was extremely rough, cratered, and large numbers of rocks that were probably some, many larger than 5 or 10 feet in size.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1364730666,
+      "load_duration": 17551250,
+      "prompt_eval_count": 267,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 180260000,
+      "eval_count": 104,
+      "eval_duration": 1154395000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04466",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:57.415401Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"So we did.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 825553500,
+      "load_duration": 888375,
+      "prompt_eval_count": 247,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 97329000,
+      "eval_count": 69,
+      "eval_duration": 724836000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04479",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:58.403461Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"static\", \"request_or_decision\": \"our mission timer is now reading 902 34 47 and static.\", \"repeat_or_corrected_message\": \"Say again the time?\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 986861625,
+      "load_duration": 847041,
+      "prompt_eval_count": 253,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 93199000,
+      "eval_count": 77,
+      "eval_duration": 890905000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04481",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:02:59.33644Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"902 34 47\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 931247208,
+      "load_duration": 944167,
+      "prompt_eval_count": 329,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 118286000,
+      "eval_count": 75,
+      "eval_duration": 809828000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04488",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:00.340476Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Okay\",\n  \"request_or_decision\": \"I'm going to cycle the circuit breaker.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1002545959,
+      "load_duration": 964500,
+      "prompt_eval_count": 334,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 118839000,
+      "eval_count": 79,
+      "eval_duration": 880106000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04490",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:01.388199Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"cycled the circuit breaker and got all nines\",\n  \"request_or_decision\": \"we'll not now reset from all nines\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1046317291,
+      "load_duration": 880333,
+      "prompt_eval_count": 251,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 93569000,
+      "eval_count": 87,
+      "eval_duration": 948724000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04494",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:02.615537Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"without color\",\n  \"request_or_decision\": \"I'd say the color of the - The local surface is very comparable to that we observed from orbit at this Sun angle, about 10 degrees Sun angle, or that nature.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1225281125,
+      "load_duration": 1013291,
+      "prompt_eval_count": 386,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 127832000,
+      "eval_count": 106,
+      "eval_duration": 1093833000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04498",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:03.473232Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Okay\",\n  \"request_or_decision\": \"OX going now\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 856096125,
+      "load_duration": 910209,
+      "prompt_eval_count": 241,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 94023000,
+      "eval_count": 72,
+      "eval_duration": 757566000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04506",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:04.538506Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"30 psi in the fuel and 30 in the oxidizer.\", \"request_or_decision\": \"We show 30 psi in the fuel and 30 in the oxidizer.\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1064167917,
+      "load_duration": 1481834,
+      "prompt_eval_count": 298,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 108703000,
+      "eval_count": 85,
+      "eval_duration": 951584000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04508",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:06.536669Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"descent\", \"request_or_decision\": \"The fuel temperature is reading 64 in the descent, and the oxidizer - that's descent 2 - and the oxidizer is off scale low. Descent 1 is showing 61 in the fuel and 65 in the oxidizer.\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"the oxidizer is off scale low\", \"asking_for_help\": \"The fuel temperature is reading 64 in the descent, and the oxidizer - that's descent 2 - and the oxidizer is off scale low. Descent 1 is showing 61 in the fuel and 65 in the oxidizer.\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1997114625,
+      "load_duration": 910834,
+      "prompt_eval_count": 304,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 114536000,
+      "eval_count": 169,
+      "eval_duration": 1879217000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04510",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:07.449886Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"holding it open\",\n  \"request_or_decision\": \"We're holding it open.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 912168708,
+      "load_duration": 938625,
+      "prompt_eval_count": 250,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 95015000,
+      "eval_count": 76,
+      "eval_duration": 813307000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04512",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:08.371927Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"indicating\",\n  \"request_or_decision\": \"indicating 20 psi in the fuel side\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 920576334,
+      "load_duration": 1022084,
+      "prompt_eval_count": 218,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 86372000,
+      "eval_count": 78,
+      "eval_duration": 831112000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04514",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:09.27829Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"And\",\n  \"request_or_decision\": \"22 in the OX\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 904743333,
+      "load_duration": 1001458,
+      "prompt_eval_count": 217,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 86371000,
+      "eval_count": 74,
+      "eval_duration": 815544000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04521",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:10.095781Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"Roger. Understand.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 816343750,
+      "load_duration": 913125,
+      "prompt_eval_count": 280,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 105569000,
+      "eval_count": 69,
+      "eval_duration": 707475000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04523",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:10.952041Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"closed\",\n  \"request_or_decision\": \"They're closed.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 855166459,
+      "load_duration": 953917,
+      "prompt_eval_count": 281,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 105450000,
+      "eval_count": 72,
+      "eval_duration": 746343000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04525",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:11.973002Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"beautiful\",\n  \"request_or_decision\": \"Buzz is going to give a try at seeing some stars through the optics.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"big and bright and beautiful\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1019723333,
+      "load_duration": 1131708,
+      "prompt_eval_count": 289,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 103445000,
+      "eval_count": 88,
+      "eval_duration": 912931000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04552",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:12.925622Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"got it\",\n  \"request_or_decision\": \"We got it\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"thank you\",\n  \"positive_words\": \"thank you\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 950930125,
+      "load_duration": 1047333,
+      "prompt_eval_count": 225,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 86989000,
+      "eval_count": 79,
+      "eval_duration": 860723000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04558",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:13.712347Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"this is\", \"request_or_decision\": \"Do you want us to accept this position?\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 785157792,
+      "load_duration": 915542,
+      "prompt_eval_count": 280,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 104840000,
+      "eval_count": 63,
+      "eval_duration": 677212000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04560",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:14.612904Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Roger\",\n  \"request_or_decision\": \"I've already done that, Charlie.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 899167041,
+      "load_duration": 1547166,
+      "prompt_eval_count": 263,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 102755000,
+      "eval_count": 76,
+      "eval_duration": 792805000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04598",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:15.462864Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"yours\", \"request_or_decision\": \"The DSKY's yours, and updata link to DATA.\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 848650166,
+      "load_duration": 965083,
+      "prompt_eval_count": 253,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 94683000,
+      "eval_count": 68,
+      "eval_duration": 750806000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04605",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:16.34696Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Thank you\",\n  \"request_or_decision\": \"Okay\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"Thank you\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 882920291,
+      "load_duration": 877333,
+      "prompt_eval_count": 239,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 93048000,
+      "eval_count": 73,
+      "eval_duration": 786814000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04607",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:17.259921Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Thank you\",\n  \"request_or_decision\": \"Roger\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"Thank you\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 911717125,
+      "load_duration": 1056625,
+      "prompt_eval_count": 254,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 98902000,
+      "eval_count": 74,
+      "eval_duration": 808626000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04622",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:18.145081Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Thank you\",\n  \"request_or_decision\": \"Roger\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"Thank you\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 883221125,
+      "load_duration": 1035542,
+      "prompt_eval_count": 234,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 93543000,
+      "eval_count": 73,
+      "eval_duration": 786146000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04633",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:19.095959Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"updated LM weight\", \"request_or_decision\": \"Do you have an updated LM weight for us?\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"Do you have an updated LM weight for us?\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 949266208,
+      "load_duration": 1419166,
+      "prompt_eval_count": 281,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 108319000,
+      "eval_count": 75,
+      "eval_duration": 837091000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04635",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:19.982045Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Roger\",\n  \"request_or_decision\": \"10906\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 884896625,
+      "load_duration": 908542,
+      "prompt_eval_count": 252,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 98106000,
+      "eval_count": 73,
+      "eval_duration": 783753000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04649",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:20.915873Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Stay\",\n  \"request_or_decision\": \"Understand we're stay for T3\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 932006250,
+      "load_duration": 959084,
+      "prompt_eval_count": 315,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 111926000,
+      "eval_count": 76,
+      "eval_duration": 816860000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04650",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:21.805986Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"Go ahead with your block data.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 888339625,
+      "load_duration": 992709,
+      "prompt_eval_count": 340,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 122699000,
+      "eval_count": 72,
+      "eval_duration": 762164000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04655",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:22.608066Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"T4\", \"request_or_decision\": \"106 38 07.\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 800325708,
+      "load_duration": 1079500,
+      "prompt_eval_count": 258,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 97413000,
+      "eval_count": 64,
+      "eval_duration": 698659000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04657",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:23.501739Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"T4\", \"request_or_decision\": \"106 38 02\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 891878333,
+      "load_duration": 1042625,
+      "prompt_eval_count": 233,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 93998000,
+      "eval_count": 63,
+      "eval_duration": 794590000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04665",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:24.838754Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Roger\",\n  \"request_or_decision\": \"Is that what you expect?\",\n  \"repeat_or_corrected_message\": \"Say again\",\n  \"coordination_problem\": \"I have a fairly good sized difference between battery volts on 5 and 6; 6 is reading 33.5 and 5 is reading 36.5.\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1335161125,
+      "load_duration": 1011709,
+      "prompt_eval_count": 317,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 116878000,
+      "eval_count": 114,
+      "eval_duration": 1214790000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04672",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:25.610719Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"ready to go\", \"request_or_decision\": \"terminate the simulated countdown\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 770450333,
+      "load_duration": 1039875,
+      "prompt_eval_count": 248,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 96213000,
+      "eval_count": 59,
+      "eval_duration": 669908000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04675",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:26.526777Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Roger\",\n  \"request_or_decision\": \"It's in progress\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 915120209,
+      "load_duration": 4878459,
+      "prompt_eval_count": 273,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 106393000,
+      "eval_count": 74,
+      "eval_duration": 801324000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04686",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:27.446985Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"works\",\n  \"request_or_decision\": \"we'll see\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 918905208,
+      "load_duration": 983500,
+      "prompt_eval_count": 254,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 98575000,
+      "eval_count": 73,
+      "eval_duration": 816964000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04689",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:28.214452Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"hatch opening\", \"request_or_decision\": \"hatch opening\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 766281375,
+      "load_duration": 1038083,
+      "prompt_eval_count": 272,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 111098000,
+      "eval_count": 58,
+      "eval_duration": 651380000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04691",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:29.083889Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"PREP\", \"request_or_decision\": \"start the PREP in about an hour or so.\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 868247333,
+      "load_duration": 1081416,
+      "prompt_eval_count": 247,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 101018000,
+      "eval_count": 65,
+      "eval_duration": 763938000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04708",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:30.086317Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Tranquility\",\n  \"request_or_decision\": \"Houston. Tranquility is going to put the track modes in P00 now.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 1001020167,
+      "load_duration": 1017750,
+      "prompt_eval_count": 264,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 105599000,
+      "eval_count": 86,
+      "eval_duration": 891641000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04728",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:30.981894Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Roger\",\n  \"request_or_decision\": \"Understand our E memory dump was good.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 892832416,
+      "load_duration": 962791,
+      "prompt_eval_count": 289,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 108210000,
+      "eval_count": 75,
+      "eval_duration": 781438000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04767",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:31.927869Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"it just doesn't look like it sunk in at all\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 943680500,
+      "load_duration": 948292,
+      "prompt_eval_count": 281,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 110541000,
+      "eval_count": 78,
+      "eval_duration": 829250000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04769",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:32.695858Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"ready to start EVA PREP\", \"request_or_decision\": \"start EVA PREP\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 766229208,
+      "load_duration": 1009833,
+      "prompt_eval_count": 267,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 105883000,
+      "eval_count": 62,
+      "eval_duration": 656268000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04773",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:33.49929Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"busy_or_rest_words\": \"beginning our EVA PREP\", \"request_or_decision\": \"We are beginning our EVA PREP\", \"repeat_or_corrected_message\": \"\", \"coordination_problem\": \"\", \"asking_for_help\": \"\", \"positive_words\": \"\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 801554333,
+      "load_duration": 949958,
+      "prompt_eval_count": 317,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 114908000,
+      "eval_count": 64,
+      "eval_duration": 683294000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04783",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:34.312407Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"\",\n  \"request_or_decision\": \"Go ahead, Houston.\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 811950917,
+      "load_duration": 826333,
+      "prompt_eval_count": 245,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 96614000,
+      "eval_count": 70,
+      "eval_duration": 712022000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04785",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:35.154941Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"Stand by\",\n  \"request_or_decision\": \"Okay\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 841320125,
+      "load_duration": 836041,
+      "prompt_eval_count": 249,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 98122000,
+      "eval_count": 70,
+      "eval_duration": 740230000
+    }
+  },
+  {
+    "stage": "extract",
+    "primary_id": "a11-04786",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:36.156012Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"busy_or_rest_words\": \"11O14\",\n  \"request_or_decision\": \"CDR is reading 11O14\",\n  \"repeat_or_corrected_message\": \"\",\n  \"coordination_problem\": \"\",\n  \"asking_for_help\": \"\",\n  \"positive_words\": \"\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 999564208,
+      "load_duration": 974666,
+      "prompt_eval_count": 237,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 101277000,
+      "eval_count": 82,
+      "eval_duration": 894939000
+    }
+  },
+  {
+    "stage": "summary",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:03:37.026723Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"day_load\": \"light\",\n\"summary\": \"Today involved routine operations with little explicit strain, focusing on the lunar module preparation and descent sequence. A good next step is to ensure all follow-up procedures are smoothly transitioned for tomorrow's EVA preparations.\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 868273417,
+      "load_duration": 1142208,
+      "prompt_eval_count": 251,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 101008000,
+      "eval_count": 62,
+      "eval_duration": 762398000
+    }
+  },
+  {
+    "stage": "support-note",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:05:33.994598Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"summary\": \"That sounds like a very demanding time with all those things happening. When you have a moment, please take some time to rest or ask for support when it feels right for you.\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 619324375,
+      "load_duration": 2132958,
+      "prompt_eval_count": 307,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 118670000,
+      "eval_count": 45,
+      "eval_duration": 495426000
+    }
+  },
+  {
+    "stage": "support-note",
+    "response": {
+      "model": "gemma4:e2b",
+      "created_at": "2026-11-15T14:06:48.340456Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"summary\": \"You had a demanding load band where program alarms and landing spot selection competed for attention. At the next safe pause after operations, give yourself a few quiet minutes to reset.\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 597962958,
+      "load_duration": 1036708,
+      "prompt_eval_count": 355,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 127004000,
+      "eval_count": 43,
+      "eval_duration": 466734000
+    }
+  }
+]

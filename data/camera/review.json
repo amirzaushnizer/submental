@@ -1,0 +1,101 @@
+{
+  "reviewer": "Demo preparation: checked against the extracted frames",
+  "scope": "Visible scene descriptions only. Raw local-model responses are retained separately.",
+  "clips": {
+    "july18-probe": {
+      "quality": "limited",
+      "face_detail": "not_visible",
+      "observations": [
+        {
+          "frame_index": 0,
+          "description": "Docking hardware and reflective surfaces fill most of the frame."
+        },
+        {
+          "frame_index": 1,
+          "description": "The camera remains on the equipment, with uneven light and horizontal bands."
+        },
+        {
+          "frame_index": 2,
+          "description": "The same hardware remains visible as the camera angle shifts slightly."
+        }
+      ],
+      "limits": "No clear face view. The scene supports the equipment discussion only; it cannot show Neil\u2019s mental state."
+    },
+    "july18-tunnel": {
+      "quality": "limited",
+      "face_detail": "not_visible",
+      "observations": [
+        {
+          "frame_index": 0,
+          "description": "A large orange-lit circular hatch fills the frame."
+        },
+        {
+          "frame_index": 1,
+          "description": "The view remains on the hatch, with horizontal interference bands."
+        },
+        {
+          "frame_index": 2,
+          "description": "A small bright reflection moves across the lower part of the hatch view."
+        }
+      ],
+      "limits": "No face is visible. The video shows the work area while the audio carries the LM-entry request."
+    },
+    "july18-tour": {
+      "quality": "limited",
+      "face_detail": "not_visible",
+      "observations": [
+        {
+          "frame_index": 0,
+          "description": "Earth is visible against a dark background, crossed by horizontal bands."
+        },
+        {
+          "frame_index": 1,
+          "description": "Earth remains in view as its position shifts slightly."
+        },
+        {
+          "frame_index": 2,
+          "description": "The view stays on Earth; horizontal lines remain visible in the recording."
+        }
+      ],
+      "limits": "No face is visible. The recorded image supplies scene context for the discussion of TV banding; it does not establish the cause of the monitor issue or Neil\u2019s mental state."
+    },
+    "cabin-film": {
+      "quality": "limited",
+      "face_detail": "limited",
+      "observations": [
+        {
+          "frame_index": 0,
+          "description": "Two crew members are visible; the foreground person faces a checklist or panel."
+        },
+        {
+          "frame_index": 1,
+          "description": "The foreground person holds a checklist near the controls; the other person remains in the background."
+        },
+        {
+          "frame_index": 2,
+          "description": "The camera moves into a darker part of the cabin, obscuring facial detail."
+        }
+      ],
+      "limits": "Face detail is small and partly shadowed. Exact mission time and individual face identity are not verified. Playback speed is unsuitable for blink-rate measurements."
+    },
+    "july23-samples": {
+      "quality": "unusable",
+      "face_detail": "not_visible",
+      "observations": [
+        {
+          "frame_index": 0,
+          "description": "A crew member and light-colored containers are visible against cabin panels."
+        },
+        {
+          "frame_index": 1,
+          "description": "A head briefly becomes more visible, with limited facial detail."
+        },
+        {
+          "frame_index": 2,
+          "description": "The face is obscured again by shadow and the camera angle."
+        }
+      ],
+      "limits": "Poor lighting and resolution prevent a reliable face observation. This clip is July 23 UTC, outside the selected demo days."
+    }
+  }
+}

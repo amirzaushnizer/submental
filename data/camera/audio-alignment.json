@@ -1,0 +1,1099 @@
+{
+  "schemaVersion": 1,
+  "model": "Whisper base.en",
+  "runtime": "faster-whisper, local CPU",
+  "generatedAt": "2026-11-15T15:15:30.346191+00:00",
+  "method": "ASR locates dialogue; source turns are linked by the spoken exchange and neighboring replies. NASA wording is retained in captions. No global video-offset match is used. ASR may mishear noisy radio words.",
+  "clips": {
+    "july18-probe": {
+      "videoSha256": "8e440966423880452685bd428a48b3cb28af164e713937d5bb405c045f2a87e5",
+      "sourceOffsetSeconds": 580,
+      "spokenTurns": [
+        {
+          "turnId": "a11-02075",
+          "quote": "Not much light up in that area, but apparently the TV set's able to pick it up.",
+          "utc": "1969-07-18T20:52:03Z",
+          "startSeconds": 13.56,
+          "endSeconds": 19.2
+        }
+      ],
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 2.76,
+          "text": " It's a pretty good show here, it looks like you almost got the probe out.",
+          "words": [
+            {
+              "word": " It's",
+              "start": 0.0,
+              "end": 0.46
+            },
+            {
+              "word": " a",
+              "start": 0.46,
+              "end": 0.56
+            },
+            {
+              "word": " pretty",
+              "start": 0.56,
+              "end": 0.8
+            },
+            {
+              "word": " good",
+              "start": 0.8,
+              "end": 0.94
+            },
+            {
+              "word": " show",
+              "start": 0.94,
+              "end": 1.14
+            },
+            {
+              "word": " here,",
+              "start": 1.14,
+              "end": 1.32
+            },
+            {
+              "word": " it",
+              "start": 1.36,
+              "end": 1.36
+            },
+            {
+              "word": " looks",
+              "start": 1.36,
+              "end": 1.54
+            },
+            {
+              "word": " like",
+              "start": 1.54,
+              "end": 1.7
+            },
+            {
+              "word": " you",
+              "start": 1.7,
+              "end": 1.82
+            },
+            {
+              "word": " almost",
+              "start": 1.82,
+              "end": 1.96
+            },
+            {
+              "word": " got",
+              "start": 1.96,
+              "end": 2.2
+            },
+            {
+              "word": " the",
+              "start": 2.2,
+              "end": 2.32
+            },
+            {
+              "word": " probe",
+              "start": 2.32,
+              "end": 2.56
+            },
+            {
+              "word": " out.",
+              "start": 2.56,
+              "end": 2.76
+            }
+          ]
+        },
+        {
+          "start": 5.5000000000000036,
+          "end": 6.62,
+          "text": " Yeah, it's loose now.",
+          "words": [
+            {
+              "word": " Yeah,",
+              "start": 5.5000000000000036,
+              "end": 5.98
+            },
+            {
+              "word": " it's",
+              "start": 6.12,
+              "end": 6.22
+            },
+            {
+              "word": " loose",
+              "start": 6.22,
+              "end": 6.34
+            },
+            {
+              "word": " now.",
+              "start": 6.34,
+              "end": 6.62
+            }
+          ]
+        },
+        {
+          "start": 7.76,
+          "end": 8.5,
+          "text": " It's a feed-up?",
+          "words": [
+            {
+              "word": " It's",
+              "start": 7.76,
+              "end": 8.12
+            },
+            {
+              "word": " a",
+              "start": 8.12,
+              "end": 8.18
+            },
+            {
+              "word": " feed",
+              "start": 8.18,
+              "end": 8.34
+            },
+            {
+              "word": "-up?",
+              "start": 8.34,
+              "end": 8.5
+            }
+          ]
+        },
+        {
+          "start": 8.9,
+          "end": 9.18,
+          "text": " Roger.",
+          "words": [
+            {
+              "word": " Roger.",
+              "start": 8.9,
+              "end": 9.18
+            }
+          ]
+        },
+        {
+          "start": 9.6,
+          "end": 10.32,
+          "text": " The nail's really good.",
+          "words": [
+            {
+              "word": " The",
+              "start": 9.6,
+              "end": 9.6
+            },
+            {
+              "word": " nail's",
+              "start": 9.6,
+              "end": 9.88
+            },
+            {
+              "word": " really",
+              "start": 9.88,
+              "end": 10.02
+            },
+            {
+              "word": " good.",
+              "start": 10.02,
+              "end": 10.32
+            }
+          ]
+        },
+        {
+          "start": 13.480000000000004,
+          "end": 19.04,
+          "text": " Not much light up in that area, but apparently you've got to pick it up.",
+          "words": [
+            {
+              "word": " Not",
+              "start": 13.480000000000004,
+              "end": 13.96
+            },
+            {
+              "word": " much",
+              "start": 13.96,
+              "end": 14.14
+            },
+            {
+              "word": " light",
+              "start": 14.14,
+              "end": 14.42
+            },
+            {
+              "word": " up",
+              "start": 14.42,
+              "end": 14.66
+            },
+            {
+              "word": " in",
+              "start": 14.66,
+              "end": 14.84
+            },
+            {
+              "word": " that",
+              "start": 14.84,
+              "end": 14.96
+            },
+            {
+              "word": " area,",
+              "start": 14.96,
+              "end": 15.3
+            },
+            {
+              "word": " but",
+              "start": 15.3,
+              "end": 15.58
+            },
+            {
+              "word": " apparently",
+              "start": 15.58,
+              "end": 16.8
+            },
+            {
+              "word": " you've",
+              "start": 16.8,
+              "end": 17.38
+            },
+            {
+              "word": " got",
+              "start": 17.38,
+              "end": 17.4
+            },
+            {
+              "word": " to",
+              "start": 17.4,
+              "end": 17.82
+            },
+            {
+              "word": " pick",
+              "start": 17.82,
+              "end": 18.78
+            },
+            {
+              "word": " it",
+              "start": 18.78,
+              "end": 18.9
+            },
+            {
+              "word": " up.",
+              "start": 18.9,
+              "end": 19.04
+            }
+          ]
+        },
+        {
+          "start": 20.680000000000003,
+          "end": 23.7,
+          "text": " There are some bright spots shining on the probe.",
+          "words": [
+            {
+              "word": " There",
+              "start": 20.680000000000003,
+              "end": 21.16
+            },
+            {
+              "word": " are",
+              "start": 21.16,
+              "end": 21.3
+            },
+            {
+              "word": " some",
+              "start": 21.3,
+              "end": 21.48
+            },
+            {
+              "word": " bright",
+              "start": 21.48,
+              "end": 21.66
+            },
+            {
+              "word": " spots",
+              "start": 21.66,
+              "end": 21.98
+            },
+            {
+              "word": " shining",
+              "start": 21.98,
+              "end": 22.6
+            },
+            {
+              "word": " on",
+              "start": 22.6,
+              "end": 22.86
+            },
+            {
+              "word": " the",
+              "start": 22.86,
+              "end": 22.96
+            },
+            {
+              "word": " probe.",
+              "start": 22.96,
+              "end": 23.7
+            }
+          ]
+        },
+        {
+          "start": 24.6,
+          "end": 29.7,
+          "text": " Apparently, some shifting on it that just gives just about enough force to make it out over.",
+          "words": [
+            {
+              "word": " Apparently,",
+              "start": 24.6,
+              "end": 24.6
+            },
+            {
+              "word": " some",
+              "start": 24.78,
+              "end": 24.84
+            },
+            {
+              "word": " shifting",
+              "start": 24.84,
+              "end": 25.12
+            },
+            {
+              "word": " on",
+              "start": 25.12,
+              "end": 25.48
+            },
+            {
+              "word": " it",
+              "start": 25.48,
+              "end": 25.62
+            },
+            {
+              "word": " that",
+              "start": 25.62,
+              "end": 25.78
+            },
+            {
+              "word": " just",
+              "start": 25.78,
+              "end": 26.98
+            },
+            {
+              "word": " gives",
+              "start": 26.98,
+              "end": 27.14
+            },
+            {
+              "word": " just",
+              "start": 27.14,
+              "end": 27.48
+            },
+            {
+              "word": " about",
+              "start": 27.48,
+              "end": 27.7
+            },
+            {
+              "word": " enough",
+              "start": 27.7,
+              "end": 28.02
+            },
+            {
+              "word": " force",
+              "start": 28.02,
+              "end": 28.86
+            },
+            {
+              "word": " to",
+              "start": 28.86,
+              "end": 29.06
+            },
+            {
+              "word": " make",
+              "start": 29.06,
+              "end": 29.18
+            },
+            {
+              "word": " it",
+              "start": 29.18,
+              "end": 29.34
+            },
+            {
+              "word": " out",
+              "start": 29.34,
+              "end": 29.46
+            },
+            {
+              "word": " over.",
+              "start": 29.46,
+              "end": 29.7
+            }
+          ]
+        },
+        {
+          "start": 32.04,
+          "end": 33.66,
+          "text": " I think that's what it's on the light.",
+          "words": [
+            {
+              "word": " I",
+              "start": 32.04,
+              "end": 32.48
+            },
+            {
+              "word": " think",
+              "start": 32.48,
+              "end": 32.74
+            },
+            {
+              "word": " that's",
+              "start": 32.74,
+              "end": 33.06
+            },
+            {
+              "word": " what",
+              "start": 33.06,
+              "end": 33.1
+            },
+            {
+              "word": " it's",
+              "start": 33.1,
+              "end": 33.32
+            },
+            {
+              "word": " on",
+              "start": 33.32,
+              "end": 33.38
+            },
+            {
+              "word": " the",
+              "start": 33.38,
+              "end": 33.5
+            },
+            {
+              "word": " light.",
+              "start": 33.5,
+              "end": 33.66
+            }
+          ]
+        }
+      ]
+    },
+    "july18-tunnel": {
+      "videoSha256": "9dd18e971f202e70450ecd11c67eac502b883f24244f4d71e52ba5f958ad79e8",
+      "sourceOffsetSeconds": 1385,
+      "spokenTurns": [
+        {
+          "turnId": "a11-02130",
+          "quote": "Looks like we'll be ready to go into the LM early if that's okay with you all down there.",
+          "utc": "1969-07-18T21:05:24Z",
+          "startSeconds": 9.44,
+          "endSeconds": 18.8
+        }
+      ],
+      "segments": [
+        {
+          "start": 2.000000000000002,
+          "end": 2.44,
+          "text": " Roger.",
+          "words": [
+            {
+              "word": " Roger.",
+              "start": 2.000000000000002,
+              "end": 2.44
+            }
+          ]
+        },
+        {
+          "start": 9.500000000000005,
+          "end": 18.54,
+          "text": " Looks like we'll be ready to go into the lamp early if that's okay with y'all down there.",
+          "words": [
+            {
+              "word": " Looks",
+              "start": 9.500000000000005,
+              "end": 9.940000000000003
+            },
+            {
+              "word": " like",
+              "start": 9.940000000000003,
+              "end": 10.38
+            },
+            {
+              "word": " we'll",
+              "start": 10.38,
+              "end": 10.58
+            },
+            {
+              "word": " be",
+              "start": 10.58,
+              "end": 10.74
+            },
+            {
+              "word": " ready",
+              "start": 10.74,
+              "end": 10.94
+            },
+            {
+              "word": " to",
+              "start": 10.94,
+              "end": 11.32
+            },
+            {
+              "word": " go",
+              "start": 11.32,
+              "end": 14.02
+            },
+            {
+              "word": " into",
+              "start": 14.02,
+              "end": 14.24
+            },
+            {
+              "word": " the",
+              "start": 14.24,
+              "end": 14.44
+            },
+            {
+              "word": " lamp",
+              "start": 14.44,
+              "end": 14.64
+            },
+            {
+              "word": " early",
+              "start": 14.64,
+              "end": 15.3
+            },
+            {
+              "word": " if",
+              "start": 15.3,
+              "end": 16.72
+            },
+            {
+              "word": " that's",
+              "start": 16.72,
+              "end": 17.14
+            },
+            {
+              "word": " okay",
+              "start": 17.14,
+              "end": 17.66
+            },
+            {
+              "word": " with",
+              "start": 17.66,
+              "end": 17.88
+            },
+            {
+              "word": " y",
+              "start": 17.88,
+              "end": 18.04
+            },
+            {
+              "word": "'all",
+              "start": 18.04,
+              "end": 18.16
+            },
+            {
+              "word": " down",
+              "start": 18.16,
+              "end": 18.36
+            },
+            {
+              "word": " there.",
+              "start": 18.36,
+              "end": 18.54
+            }
+          ]
+        },
+        {
+          "start": 19.52,
+          "end": 22.6,
+          "text": " Roger, it's fine with us, Neil. Go ahead any time you watch over.",
+          "words": [
+            {
+              "word": " Roger,",
+              "start": 19.52,
+              "end": 19.86
+            },
+            {
+              "word": " it's",
+              "start": 20.14,
+              "end": 20.2
+            },
+            {
+              "word": " fine",
+              "start": 20.2,
+              "end": 20.38
+            },
+            {
+              "word": " with",
+              "start": 20.38,
+              "end": 20.58
+            },
+            {
+              "word": " us,",
+              "start": 20.58,
+              "end": 20.7
+            },
+            {
+              "word": " Neil.",
+              "start": 20.88,
+              "end": 20.9
+            },
+            {
+              "word": " Go",
+              "start": 21.12,
+              "end": 21.16
+            },
+            {
+              "word": " ahead",
+              "start": 21.16,
+              "end": 21.34
+            },
+            {
+              "word": " any",
+              "start": 21.34,
+              "end": 21.5
+            },
+            {
+              "word": " time",
+              "start": 21.5,
+              "end": 21.82
+            },
+            {
+              "word": " you",
+              "start": 21.82,
+              "end": 22.2
+            },
+            {
+              "word": " watch",
+              "start": 22.2,
+              "end": 22.38
+            },
+            {
+              "word": " over.",
+              "start": 22.38,
+              "end": 22.6
+            }
+          ]
+        },
+        {
+          "start": 25.080000000000002,
+          "end": 26.48,
+          "text": " Okay.",
+          "words": [
+            {
+              "word": " Okay.",
+              "start": 25.080000000000002,
+              "end": 26.48
+            }
+          ]
+        }
+      ]
+    },
+    "july18-tour": {
+      "videoSha256": "e7af1ca97ad1eba77cff9d60dca810cd79c5cc5bc816b782b88712da052eb6b6",
+      "sourceOffsetSeconds": 5158,
+      "spokenTurns": [
+        {
+          "turnId": "a11-02371",
+          "quote": "We have some horizontal banding in our TV monitor. Are we transmitting that to you, or do you have a clear picture?",
+          "utc": "1969-07-18T22:11:34Z",
+          "startSeconds": 13.78,
+          "endSeconds": 20.9
+        }
+      ],
+      "segments": [
+        {
+          "start": 13.780000000000003,
+          "end": 16.88,
+          "text": " We have some horizontal banding in our TV monitor.",
+          "words": [
+            {
+              "word": " We",
+              "start": 13.780000000000003,
+              "end": 14.22
+            },
+            {
+              "word": " have",
+              "start": 14.22,
+              "end": 14.36
+            },
+            {
+              "word": " some",
+              "start": 14.36,
+              "end": 14.56
+            },
+            {
+              "word": " horizontal",
+              "start": 14.56,
+              "end": 14.82
+            },
+            {
+              "word": " banding",
+              "start": 14.82,
+              "end": 15.68
+            },
+            {
+              "word": " in",
+              "start": 15.68,
+              "end": 15.82
+            },
+            {
+              "word": " our",
+              "start": 15.82,
+              "end": 16.06
+            },
+            {
+              "word": " TV",
+              "start": 16.06,
+              "end": 16.42
+            },
+            {
+              "word": " monitor.",
+              "start": 16.42,
+              "end": 16.88
+            }
+          ]
+        },
+        {
+          "start": 17.76,
+          "end": 20.8,
+          "text": " Are we transmitting that to you or do you have a per picture?",
+          "words": [
+            {
+              "word": " Are",
+              "start": 17.76,
+              "end": 17.94
+            },
+            {
+              "word": " we",
+              "start": 17.94,
+              "end": 18.06
+            },
+            {
+              "word": " transmitting",
+              "start": 18.06,
+              "end": 18.36
+            },
+            {
+              "word": " that",
+              "start": 18.36,
+              "end": 18.82
+            },
+            {
+              "word": " to",
+              "start": 18.82,
+              "end": 19.0
+            },
+            {
+              "word": " you",
+              "start": 19.0,
+              "end": 19.14
+            },
+            {
+              "word": " or",
+              "start": 19.14,
+              "end": 19.28
+            },
+            {
+              "word": " do",
+              "start": 19.28,
+              "end": 19.42
+            },
+            {
+              "word": " you",
+              "start": 19.42,
+              "end": 19.5
+            },
+            {
+              "word": " have",
+              "start": 19.5,
+              "end": 19.7
+            },
+            {
+              "word": " a",
+              "start": 19.7,
+              "end": 19.92
+            },
+            {
+              "word": " per",
+              "start": 19.92,
+              "end": 20.48
+            },
+            {
+              "word": " picture?",
+              "start": 20.48,
+              "end": 20.8
+            }
+          ]
+        },
+        {
+          "start": 21.7,
+          "end": 23.2,
+          "text": " Neil, we have a very clear picture.",
+          "words": [
+            {
+              "word": " Neil,",
+              "start": 21.7,
+              "end": 22.0
+            },
+            {
+              "word": " we",
+              "start": 22.14,
+              "end": 22.16
+            },
+            {
+              "word": " have",
+              "start": 22.16,
+              "end": 22.3
+            },
+            {
+              "word": " a",
+              "start": 22.3,
+              "end": 22.42
+            },
+            {
+              "word": " very",
+              "start": 22.42,
+              "end": 22.64
+            },
+            {
+              "word": " clear",
+              "start": 22.64,
+              "end": 22.86
+            },
+            {
+              "word": " picture.",
+              "start": 22.86,
+              "end": 23.2
+            }
+          ]
+        },
+        {
+          "start": 23.46,
+          "end": 27.84,
+          "text": " The only thing that we see is a little white dot in the bottom of our screen,",
+          "words": [
+            {
+              "word": " The",
+              "start": 23.46,
+              "end": 23.48
+            },
+            {
+              "word": " only",
+              "start": 23.48,
+              "end": 23.68
+            },
+            {
+              "word": " thing",
+              "start": 23.68,
+              "end": 24.82
+            },
+            {
+              "word": " that",
+              "start": 24.82,
+              "end": 24.98
+            },
+            {
+              "word": " we",
+              "start": 24.98,
+              "end": 25.16
+            },
+            {
+              "word": " see",
+              "start": 25.16,
+              "end": 25.42
+            },
+            {
+              "word": " is",
+              "start": 25.42,
+              "end": 25.64
+            },
+            {
+              "word": " a",
+              "start": 25.64,
+              "end": 25.78
+            },
+            {
+              "word": " little",
+              "start": 25.78,
+              "end": 25.94
+            },
+            {
+              "word": " white",
+              "start": 25.94,
+              "end": 26.24
+            },
+            {
+              "word": " dot",
+              "start": 26.24,
+              "end": 26.52
+            },
+            {
+              "word": " in",
+              "start": 26.52,
+              "end": 26.74
+            },
+            {
+              "word": " the",
+              "start": 26.74,
+              "end": 26.82
+            },
+            {
+              "word": " bottom",
+              "start": 26.82,
+              "end": 27.1
+            },
+            {
+              "word": " of",
+              "start": 27.1,
+              "end": 27.34
+            },
+            {
+              "word": " our",
+              "start": 27.34,
+              "end": 27.48
+            },
+            {
+              "word": " screen,",
+              "start": 27.48,
+              "end": 27.84
+            }
+          ]
+        },
+        {
+          "start": 27.84,
+          "end": 34.9,
+          "text": " which is our TV guys say is an apparently a burnout spot in a camera,",
+          "words": [
+            {
+              "word": " which",
+              "start": 27.84,
+              "end": 28.42
+            },
+            {
+              "word": " is",
+              "start": 28.42,
+              "end": 28.66
+            },
+            {
+              "word": " our",
+              "start": 28.66,
+              "end": 30.48
+            },
+            {
+              "word": " TV",
+              "start": 30.48,
+              "end": 30.78
+            },
+            {
+              "word": " guys",
+              "start": 30.78,
+              "end": 31.14
+            },
+            {
+              "word": " say",
+              "start": 31.14,
+              "end": 31.44
+            },
+            {
+              "word": " is",
+              "start": 31.44,
+              "end": 31.6
+            },
+            {
+              "word": " an",
+              "start": 31.6,
+              "end": 31.76
+            },
+            {
+              "word": " apparently",
+              "start": 31.76,
+              "end": 32.72
+            },
+            {
+              "word": " a",
+              "start": 32.72,
+              "end": 33.02
+            },
+            {
+              "word": " burnout",
+              "start": 33.02,
+              "end": 33.48
+            },
+            {
+              "word": " spot",
+              "start": 33.48,
+              "end": 33.82
+            },
+            {
+              "word": " in",
+              "start": 33.82,
+              "end": 34.04
+            },
+            {
+              "word": " a",
+              "start": 34.04,
+              "end": 34.2
+            },
+            {
+              "word": " camera,",
+              "start": 34.2,
+              "end": 34.9
+            }
+          ]
+        },
+        {
+          "start": 34.9,
+          "end": 36.78,
+          "text": " but it should come back over.",
+          "words": [
+            {
+              "word": " but",
+              "start": 34.9,
+              "end": 35.18
+            },
+            {
+              "word": " it",
+              "start": 35.18,
+              "end": 35.52
+            },
+            {
+              "word": " should",
+              "start": 35.52,
+              "end": 35.92
+            },
+            {
+              "word": " come",
+              "start": 35.92,
+              "end": 36.18
+            },
+            {
+              "word": " back",
+              "start": 36.18,
+              "end": 36.44
+            },
+            {
+              "word": " over.",
+              "start": 36.44,
+              "end": 36.78
+            }
+          ]
+        },
+        {
+          "start": 39.14,
+          "end": 39.76,
+          "text": " Roger.",
+          "words": [
+            {
+              "word": " Roger.",
+              "start": 39.14,
+              "end": 39.76
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "excludedMatches": [
+    {
+      "turnId": "a11-02073",
+      "reason": "Short utterance is too unclear for word-level confirmation. Kept as a reference-only clip for this KPI turn."
+    },
+    {
+      "turnId": "a11-02363",
+      "reason": "Original file offset did not contain this turn. Removed the match rather than reusing unrelated Earth footage."
+    }
+  ]
+}

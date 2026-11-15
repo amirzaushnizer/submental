@@ -1,0 +1,294 @@
+{
+  "schemaVersion": 1,
+  "model": "qwen3.6:latest",
+  "provider": "Ollama on this Mac",
+  "generatedAt": "2026-11-15T15:15:30.847Z",
+  "prompt": "You are describing 3 ordered still frames sampled from real Apollo 11 footage. Report only visible actions, posture, objects and image quality. Do not identify anyone by face. Do not infer emotions, health, fatigue, stress, cognitive load or intent. Do not infer blink rate or action frequency from sparse frames. Each observation must name the zero-based frame index (0,1,2) that supports it. If a face is too small, shadowed, turned away or absent, say so. At most three short observations. Do not turn lack of evidence into a reassuring assessment. Return JSON.",
+  "clips": {
+    "july18-probe": {
+      "observation": {
+        "quality": "unusable",
+        "face_detail": "not_visible",
+        "observations": [
+          {
+            "frame_index": 0,
+            "description": "The image is extremely dark and blurry with significant horizontal scan lines. A figure in a bulky spacesuit is visible inside a circular structure, likely the Lunar Module, illuminated by small lights."
+          },
+          {
+            "frame_index": 1,
+            "description": "The view remains obscured by darkness and heavy video noise. The astronaut's helmet reflects light sources within the module. A large, out-of-focus object partially obstructs the right side of the frame."
+          },
+          {
+            "frame_index": 2,
+            "description": "The image quality is poor due to low light and motion blur. The astronaut inside the Lunar Module appears to be moving their arms. The horizontal scan lines are still prominent across the entire frame."
+          }
+        ],
+        "limits": "The extreme darkness, heavy video noise, and motion blur make it impossible to discern specific actions or details of the environment. No facial features are visible due to the helmet and poor lighting conditions."
+      },
+      "frames": [
+        {
+          "file": "july18-probe-0.jpg",
+          "clipSecond": 8.2,
+          "sha256": "c116b5bd28c350d26b13ecaf73aa3ec3b38c803b327dc346b7753d4e32858a5e"
+        },
+        {
+          "file": "july18-probe-1.jpg",
+          "clipSecond": 12,
+          "sha256": "af7dc0b4239ae840f151603ae392e33f439c7f368f2360dc7999dbbca6666d16"
+        },
+        {
+          "file": "july18-probe-2.jpg",
+          "clipSecond": 18,
+          "sha256": "518c9351df9372ebfe0486d19f2f6c1ad56587dc6d06b8d6aadcc3692da61acc"
+        }
+      ],
+      "totalDurationNs": 15757906834,
+      "outputTokens": 259,
+      "raw": {
+        "model": "qwen3.6:latest",
+        "created_at": "2026-11-15T15:15:46.623954Z",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"quality\": \"unusable\",\n  \"face_detail\": \"not_visible\",\n  \"observations\": [\n    {\n      \"frame_index\": 0,\n      \"description\": \"The image is extremely dark and blurry with significant horizontal scan lines. A figure in a bulky spacesuit is visible inside a circular structure, likely the Lunar Module, illuminated by small lights.\"\n    },\n    {\n      \"frame_index\": 1,\n      \"description\": \"The view remains obscured by darkness and heavy video noise. The astronaut's helmet reflects light sources within the module. A large, out-of-focus object partially obstructs the right side of the frame.\"\n    },\n    {\n      \"frame_index\": 2,\n      \"description\": \"The image quality is poor due to low light and motion blur. The astronaut inside the Lunar Module appears to be moving their arms. The horizontal scan lines are still prominent across the entire frame.\"\n    }\n  ],\n  \"limits\": \"The extreme darkness, heavy video noise, and motion blur make it impossible to discern specific actions or details of the environment. No facial features are visible due to the helmet and poor lighting conditions.\"\n}"
+        },
+        "done": true,
+        "done_reason": "stop",
+        "total_duration": 15757906834,
+        "load_duration": 8611004292,
+        "prompt_eval_count": 920,
+        "prompt_eval_cached_count": 0,
+        "prompt_eval_duration": 2629198000,
+        "eval_count": 259,
+        "eval_duration": 4496287000
+      }
+    },
+    "july18-tunnel": {
+      "observation": {
+        "quality": "limited",
+        "face_detail": "not_visible",
+        "observations": [
+          {
+            "frame_index": 0,
+            "description": "The image shows a blurry, orange-hued surface with faint horizontal lines and dark specks. A large, indistinct circular shape is visible in the upper left quadrant."
+          },
+          {
+            "frame_index": 1,
+            "description": "The view remains on the same orange surface. The circular shape has shifted slightly to the right. Several small, bright, out-of-focus light reflections are now visible across the frame."
+          },
+          {
+            "frame_index": 2,
+            "description": "The camera appears to have moved or zoomed in, making the image more abstract. The surface is still orange with horizontal lines, but a dark rectangular object is now prominent in the lower right corner."
+          }
+        ],
+        "limits": "no_face_detected"
+      },
+      "frames": [
+        {
+          "file": "july18-tunnel-0.jpg",
+          "clipSecond": 9.8,
+          "sha256": "2e2194516f10ff68b20646a2f8676d1c41fdd36daa518f6e3ed46d6b807395c1"
+        },
+        {
+          "file": "july18-tunnel-1.jpg",
+          "clipSecond": 14,
+          "sha256": "b91c054bd9ddb54f1dc0957f062d0295484f1f3a0d394c0c345675bf1762ff47"
+        },
+        {
+          "file": "july18-tunnel-2.jpg",
+          "clipSecond": 19,
+          "sha256": "75f98d61b4748e25e99982f54a6016046da5eeedf8165c7ab459d5e36bd2d0f2"
+        }
+      ],
+      "totalDurationNs": 6423977250,
+      "outputTokens": 220,
+      "raw": {
+        "model": "qwen3.6:latest",
+        "created_at": "2026-11-15T15:15:53.063459Z",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"quality\": \"limited\",\n  \"face_detail\": \"not_visible\",\n  \"observations\": [\n    {\n      \"frame_index\": 0,\n      \"description\": \"The image shows a blurry, orange-hued surface with faint horizontal lines and dark specks. A large, indistinct circular shape is visible in the upper left quadrant.\"\n    },\n    {\n      \"frame_index\": 1,\n      \"description\": \"The view remains on the same orange surface. The circular shape has shifted slightly to the right. Several small, bright, out-of-focus light reflections are now visible across the frame.\"\n    },\n    {\n      \"frame_index\": 2,\n      \"description\": \"The camera appears to have moved or zoomed in, making the image more abstract. The surface is still orange with horizontal lines, but a dark rectangular object is now prominent in the lower right corner.\"\n    }\n  ],\n  \"limits\": \"no_face_detected\"\n}"
+        },
+        "done": true,
+        "done_reason": "stop",
+        "total_duration": 6423977250,
+        "load_duration": 3998750,
+        "prompt_eval_count": 920,
+        "prompt_eval_cached_count": 0,
+        "prompt_eval_duration": 2684716000,
+        "eval_count": 220,
+        "eval_duration": 3717305000
+      }
+    },
+    "july18-tour": {
+      "observation": {
+        "quality": "limited",
+        "face_detail": "not_visible",
+        "observations": [
+          {
+            "frame_index": 0,
+            "description": "A celestial body is visible in the upper left quadrant of a dark background. A small, bright point of light is present in the lower right."
+          },
+          {
+            "frame_index": 1,
+            "description": "The celestial body has shifted slightly to the right and appears larger than in the previous frame. The small point of light remains in the lower right."
+          },
+          {
+            "frame_index": 2,
+            "description": "The celestial body continues its movement towards the center of the frame and is now significantly larger. The small point of light is still visible in the lower right."
+          }
+        ],
+        "limits": "no_face_detected"
+      },
+      "frames": [
+        {
+          "file": "july18-tour-0.jpg",
+          "clipSecond": 14,
+          "sha256": "7e23d2b160a4449fea15fb389bc0a2ddbfa4f821ebd95657f949f93aadf54938"
+        },
+        {
+          "file": "july18-tour-1.jpg",
+          "clipSecond": 18,
+          "sha256": "1546f1e7fb14e12edee7783494cb1bd64e412576855b4de9619b074d52b2a41e"
+        },
+        {
+          "file": "july18-tour-2.jpg",
+          "clipSecond": 22,
+          "sha256": "0f7e541f9a5ab439f6dce485c326f88f4ec2dc965ffcc6339e30bf63b0175e0d"
+        }
+      ],
+      "totalDurationNs": 6154955041,
+      "outputTokens": 198,
+      "raw": {
+        "model": "qwen3.6:latest",
+        "created_at": "2026-11-15T15:15:59.223893Z",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"quality\": \"limited\",\n  \"face_detail\": \"not_visible\",\n  \"observations\": [\n    {\n      \"frame_index\": 0,\n      \"description\": \"A celestial body is visible in the upper left quadrant of a dark background. A small, bright point of light is present in the lower right.\"\n    },\n    {\n      \"frame_index\": 1,\n      \"description\": \"The celestial body has shifted slightly to the right and appears larger than in the previous frame. The small point of light remains in the lower right.\"\n    },\n    {\n      \"frame_index\": 2,\n      \"description\": \"The celestial body continues its movement towards the center of the frame and is now significantly larger. The small point of light is still visible in the lower right.\"\n    }\n  ],\n  \"limits\": \"no_face_detected\"\n}"
+        },
+        "done": true,
+        "done_reason": "stop",
+        "total_duration": 6154955041,
+        "load_duration": 2791250,
+        "prompt_eval_count": 920,
+        "prompt_eval_cached_count": 0,
+        "prompt_eval_duration": 2627947000,
+        "eval_count": 198,
+        "eval_duration": 3507697000
+      }
+    },
+    "cabin-film": {
+      "observation": {
+        "quality": "limited",
+        "face_detail": "not_visible",
+        "observations": [
+          {
+            "frame_index": 0,
+            "description": "In the first frame, two astronauts in white space suits are visible inside a cramped spacecraft module. The astronaut in the foreground is seated and facing right, with their left hand raised near a control panel. The second astronaut is seated further back, looking forward."
+          },
+          {
+            "frame_index": 1,
+            "description": "In the second frame, the astronaut in the foreground has turned slightly towards the camera and is holding up a large checklist or manual with both hands. The astronaut in the background remains in a similar position."
+          },
+          {
+            "frame_index": 2,
+            "description": "The third frame shows a very dark scene, likely outside the spacecraft. A figure in a space suit is visible on the left, appearing to float or move in zero gravity. On the right, part of the spacecraft's exterior is illuminated."
+          }
+        ],
+        "limits": "faces are too small and shadowed for detailed observation"
+      },
+      "frames": [
+        {
+          "file": "cabin-film-0.jpg",
+          "clipSecond": 1,
+          "sha256": "f8bb4879ca4d5e8786afc5eefe0e19339645dcc0526f4cab2c210fd74b0c7136"
+        },
+        {
+          "file": "cabin-film-1.jpg",
+          "clipSecond": 6,
+          "sha256": "63449c4a9df9faa09a80aea7fd50e2e9c11f2a85d1552140623075fa1af2a319"
+        },
+        {
+          "file": "cabin-film-2.jpg",
+          "clipSecond": 11,
+          "sha256": "2fae3822cd910403a74e3fbc9a2dab1e0e515c30588ae29be2baf22770665ab6"
+        }
+      ],
+      "totalDurationNs": 6651956417,
+      "outputTokens": 255,
+      "raw": {
+        "model": "qwen3.6:latest",
+        "created_at": "2026-11-15T14:48:44.80294Z",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"quality\": \"limited\",\n  \"face_detail\": \"not_visible\",\n  \"observations\": [\n    {\n      \"frame_index\": 0,\n      \"description\": \"In the first frame, two astronauts in white space suits are visible inside a cramped spacecraft module. The astronaut in the foreground is seated and facing right, with their left hand raised near a control panel. The second astronaut is seated further back, looking forward.\"\n    },\n    {\n      \"frame_index\": 1,\n      \"description\": \"In the second frame, the astronaut in the foreground has turned slightly towards the camera and is holding up a large checklist or manual with both hands. The astronaut in the background remains in a similar position.\"\n    },\n    {\n      \"frame_index\": 2,\n      \"description\": \"The third frame shows a very dark scene, likely outside the spacecraft. A figure in a space suit is visible on the left, appearing to float or move in zero gravity. On the right, part of the spacecraft's exterior is illuminated.\"\n    }\n  ],\n  \"limits\": \"faces are too small and shadowed for detailed observation\"\n}"
+        },
+        "done": true,
+        "done_reason": "stop",
+        "total_duration": 6651956417,
+        "load_duration": 2144167,
+        "prompt_eval_count": 800,
+        "prompt_eval_cached_count": 0,
+        "prompt_eval_duration": 2276682000,
+        "eval_count": 255,
+        "eval_duration": 4355161000
+      }
+    },
+    "july23-samples": {
+      "observation": {
+        "quality": "unusable",
+        "face_detail": "not_visible",
+        "observations": [
+          {
+            "frame_index": 0,
+            "description": "The image is extremely dark and blurry, showing the interior of a spacecraft with control panels on the left wall. A figure is visible in silhouette on the right side."
+          },
+          {
+            "frame_index": 1,
+            "description": "A person wearing a headset is visible in the foreground, facing towards the right. The background shows more of the control panel and another figure standing further back."
+          },
+          {
+            "frame_index": 2,
+            "description": "The scene returns to a very dark state similar to frame 0. A silhouette of a person is visible on the right, but details are obscured by low light and poor image quality."
+          }
+        ],
+        "limits": "Image quality is too poor for detailed analysis. Faces are not clearly visible due to darkness and resolution."
+      },
+      "frames": [
+        {
+          "file": "july23-samples-0.jpg",
+          "clipSecond": 1,
+          "sha256": "2667f24a56d815dc414580b3cde282ab749263e99a4797a67f5cb62f25fc83e2"
+        },
+        {
+          "file": "july23-samples-1.jpg",
+          "clipSecond": 10,
+          "sha256": "6601b722761f2a13409d2cefdd7ec55322d31b4a939b56efe85bcbc28ff66d06"
+        },
+        {
+          "file": "july23-samples-2.jpg",
+          "clipSecond": 19,
+          "sha256": "e2ae21be080a138afe489e36be917e1c918143b9a57faccbcab865f5dca54795"
+        }
+      ],
+      "totalDurationNs": 6559736416,
+      "outputTokens": 227,
+      "raw": {
+        "model": "qwen3.6:latest",
+        "created_at": "2026-11-15T14:48:51.366335Z",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"quality\": \"unusable\",\n  \"face_detail\": \"not_visible\",\n  \"observations\": [\n    {\n      \"frame_index\": 0,\n      \"description\": \"The image is extremely dark and blurry, showing the interior of a spacecraft with control panels on the left wall. A figure is visible in silhouette on the right side.\"\n    },\n    {\n      \"frame_index\": 1,\n      \"description\": \"A person wearing a headset is visible in the foreground, facing towards the right. The background shows more of the control panel and another figure standing further back.\"\n    },\n    {\n      \"frame_index\": 2,\n      \"description\": \"The scene returns to a very dark state similar to frame 0. A silhouette of a person is visible on the right, but details are obscured by low light and poor image quality.\"\n    }\n  ],\n  \"limits\": \"Image quality is too poor for detailed analysis. Faces are not clearly visible due to darkness and resolution.\"\n}"
+        },
+        "done": true,
+        "done_reason": "stop",
+        "total_duration": 6559736416,
+        "load_duration": 1629791,
+        "prompt_eval_count": 920,
+        "prompt_eval_cached_count": 0,
+        "prompt_eval_duration": 2607318000,
+        "eval_count": 227,
+        "eval_duration": 3933271000
+      }
+    }
+  }
+}

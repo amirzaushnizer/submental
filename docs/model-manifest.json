@@ -1,0 +1,43 @@
+{
+  "capturedAt": "2026-11-15",
+  "purpose": "Local model metadata for the checked-in demo results; mutable tags may resolve differently later.",
+  "ollama": "0.40.16",
+  "models": [
+    {
+      "name": "gemma4:e2b",
+      "digest": "7fbdbf8f5e45a75bb122155ed546e765b4d9c53a1285f62fd9f506baa1c5a47e",
+      "size": 7162405886,
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "gemma4",
+        "families": [
+          "gemma4"
+        ],
+        "parameter_size": "5.1B",
+        "quantization_level": "Q4_K_M",
+        "context_length": 131072,
+        "embedding_length": 1536,
+        "runner": "ggml"
+      }
+    },
+    {
+      "name": "qwen3.6:latest",
+      "digest": "07d35212591fc27746f0a317c975a6d68754fb38e9053d82e25f06057af28522",
+      "size": 23938333577,
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "qwen35moe",
+        "families": [
+          "qwen35moe"
+        ],
+        "parameter_size": "36.0B",
+        "quantization_level": "Q4_K_M",
+        "context_length": 262144,
+        "embedding_length": 2048,
+        "runner": "ggml"
+      }
+    }
+  ]
+}

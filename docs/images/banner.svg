@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">SubMental</title>
+  <desc id="desc">A little headspace, even in space. Real NASA words, local AI and evidence you can explore.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111d31"/><stop offset="1" stop-color="#08101c"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#528ac9" stop-opacity=".24"/><stop offset="1" stop-color="#528ac9" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="330" rx="24" fill="url(#bg)"/>
+  <ellipse cx="1000" cy="100" rx="350" ry="230" fill="url(#glow)"/>
+  <g fill="none" stroke="#8eb8fc" opacity=".65">
+    <circle cx="1000" cy="154" r="79" stroke-width="1.5"/>
+    <ellipse cx="1000" cy="154" rx="133" ry="36" transform="rotate(-35 1000 154)" stroke-width="1.5"/>
+    <path d="M947 155h24l12-29 21 61 18-37h34" stroke="#95d2c6" stroke-width="3" stroke-linejoin="round"/>
+  </g>
+  <circle cx="1099" cy="82" r="7" fill="#95d2c6"/>
+  <text x="64" y="64" fill="#96acc8" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">PERSONAL SUPPORT / APOLLO 11 RESEARCH DEMO</text>
+  <text x="60" y="151" fill="#edf4ff" font-family="Arial,sans-serif" font-size="70" font-weight="700" letter-spacing="-2">SubMental</text>
+  <text x="64" y="197" fill="#c3d1e3" font-family="Arial,sans-serif" font-size="26">A little headspace, even in space.</text>
+  <path d="M64 235H1136" stroke="#314057"/>
+  <text x="64" y="278" fill="#8eb8fc" font-family="Arial,sans-serif" font-size="14" letter-spacing="1.5">REAL NASA WORDS</text>
+  <text x="330" y="278" fill="#95d2c6" font-family="Arial,sans-serif" font-size="14" letter-spacing="1.5">LOCAL AI</text>
+  <text x="505" y="278" fill="#e1c574" font-family="Arial,sans-serif" font-size="14" letter-spacing="1.5">EVIDENCE YOU CAN EXPLORE</text>
+</svg>

@@ -1,0 +1,6 @@
+* text=auto eol=lf
+# Receipts hash source bytes; preserve these snapshots on every platform.
+data/** -text
+*.png binary
+*.jpg binary
+*.mp4 binary
